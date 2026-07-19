@@ -1,0 +1,1069 @@
+[
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Tervetuloa takasin Oikeaa asiaa -podcastin pariin, mä oon Matti Nieminen. <|prosody:pause|>Tää on... <|prosody:pause|>no, tää on Suomen ykköspaikka niille, jotka on heränny tähän todellisuuteen. <|prosody:speed_slow|>Siihen todellisuuteen, jota valtamedia yrittää epätoivosesti piilotella.",
+    "type": "statement",
+    "startMs": 2000
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Tänään meillä on todella mielenkiintonen kattaus, mennää tonne naapurimaan politiikkaan ja sit vähän kotimaan vasemmiston... <|sfx:humming|>mmm..<|prosody:pause|>sanotaanko kipuiluun. <|prosody:speed_fast|>Mut ekana esitellää vieraat. <|prosody:expressive_high|>Linjoilla on tuttuun tapaan Kankaanpään äänekkäin kotiäiti ja bloggaaja, Ringa Turunen. Terve Ringa!",
+    "type": "statement",
+    "startMs": 17565
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|emotion:affection|>No terve terve, ja kiitos ku kutsuit taas.",
+    "type": "statement",
+    "startMs": 34572
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Mites siel Kankaanpäässä, onks tullu taas vihasia katseita torilla vai... <|sfx:humming|>mmm..<|prosody:pause|>joko siel aletaa heräilemään?",
+    "type": "dialogue",
+    "startMs": 37747
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|emotion:pride|>Siis kyl mä sanon et kansa alkaa oikeesti herätä.",
+    "type": "dialogue",
+    "startMs": 45346
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|emotion:surprise|>Aijaa?",
+    "type": "interjection",
+    "startMs": 48066
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Nii, mä olin siel perussuomalaisten teltalla eilen ja joku tämmönen... <|prosody:pause|>no, ilmiselvä vihervasemmistolainen tuli siihen jotain huutelemaan mun blogista.",
+    "type": "followup",
+    "startMs": 48706
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|emotion:contemplation|>Ei jumalauta.",
+    "type": "interjection",
+    "startMs": 58626
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|prosody:speed_fast|>Jep. Sanoin sille ihan suoraan et me maksetaan verot ja mun lapset ansaitsee... <|prosody:pause|>oota nyt... ne ansaitsee turvallisen elämän, et mee muualle siitä saatana ulisemaan.",
+    "type": "followup",
+    "startMs": 59306
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Toi on kyl ihan täysin totta. <|prosody:speed_slow|>Ei niille saa antaa milliäkään periks.",
+    "type": "dialogue",
+    "startMs": 70066
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Ei todellakaan. <|prosody:speed_slow|>Se on jumalan tosi et jos niille antaa pikkusormen ni ne vie koko käden... ja meidän lasten tulevaisuuden siin samalla.",
+    "type": "dialogue",
+    "startMs": 74447
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Jep. Sit meillä on toisena vieraana Harri Auvinen, entinen Oulun yliopiston dosentti ja vapaa tutkija. Tervetuloa Harri.",
+    "type": "statement",
+    "startMs": 84165
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:expressive_low|>Kiitos, Matti. On aina ilo olla täällä keskustelemassa asioista niiden oikeilla nimillä.",
+    "type": "statement",
+    "startMs": 92465
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Sä oot vissii taas kirjotellu Substackiin jotain viikolla?",
+    "type": "dialogue",
+    "startMs": 97924
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Kyllä, julkaisin juuri laajemman analyysin eurooppalaisen konservatismin tilasta.",
+    "type": "dialogue",
+    "startMs": 100773
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|sfx:humming|>Mm.",
+    "type": "interjection",
+    "startMs": 105493
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Se on kerännyt mukavasti lukijoita, vaikka odotetusti tämä... <|prosody:pause|>miten sen nyt muotoilisi, tämä ideologiakoneisto on yrittänyt vaieta sen kuoliaaksi.",
+    "type": "followup",
+    "startMs": 105693
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|prosody:expressive_high|>Nimenomaa!",
+    "type": "interjection",
+    "startMs": 114813
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:expressive_low|>Minä olen kuitenkin tottunut siihen. <|prosody:pause|>Yliopistosta lähtöni jälkeen olen huomannut, että asioista voi puhua paljon vapaammin kun ei ole kiinni siinä valtion rahoittamassa narratiivissa.",
+    "type": "followup",
+    "startMs": 115613
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Se on just näin. Sä oot tavallaan... <|sfx:humming|>mmm..<|prosody:pause|>maksanu sen hinnan, mut nyt sä oot vapaa.",
+    "type": "dialogue",
+    "startMs": 126470
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|emotion:pride|>Pitää paikkansa. Mutta se on hinta, joka on ehdottomasti maksettava totuudesta.",
+    "type": "dialogue",
+    "startMs": 132994
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:speed_fast|>Mut mennää sit päivän aiheisii. Ruotsissa tapahtuu nyt kummia. <|prosody:pause|>Demokraatti-lehti, siis demarien oma äänenkannattaja, julkas jutun mis ne analysoi miten Ruotsin liberaalit on vihdoin... <|prosody:pause|>no, ne on taipunut ruotsidemokraattien edessä. <|prosody:speed_slow|>Siis tajunnu et ilman kansallismielisiä ei voi yksinkertasesti hallita.",
+    "type": "statement",
+    "startMs": 138475
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ja samaan aikaan meillä tääl kotosuomessa vasemmistoliiton Jessi Jokelainen julistaa itteään punaseksi sosialistiksi ja haastaa riitaa PS:n Jani Mäkelän kaa. <|prosody:pause|>Mäkelä kuittas aika hyvi et vasemmisto on vaa itestään hyödyttömiä toimijoita mitkä elää kapitalismin lannoitteella. <|prosody:speed_fast|>Miten sä Harri, tota... <|prosody:pause|>miten sä analysoit tätä Ruotsin tilannetta ja tätä blokkiutumista?",
+    "type": "statement",
+    "startMs": 156392
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Tämä on erittäin odotettu kehityskulku. Olen seurannut länsimaista politiikkaa tiiviisti yli kaksi vuosikymmentä...",
+    "type": "statement",
+    "startMs": 178335
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|sfx:humming|>Mm.",
+    "type": "interjection",
+    "startMs": 184975
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "...ja voin kertoa, että perinteinen oikeisto joutuu kaikkialla Euroopassa hyväksymään sen tosiasian, että heidän vanha mallinsa ei enää toimi. <|prosody:pause|>Liberaalit yrittivät pitkään eristää ruotsidemokraatit, mutta demokraattinen paine perinteisen kansallisvaltion puolesta kasvoi yksinkertaisesti liian suureksi.",
+    "type": "followup",
+    "startMs": 185175
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|emotion:elation|>Ja hyvä et kasvo!",
+    "type": "interruption",
+    "startMs": 201679
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Juuri näin. <|prosody:pause|>Tämä on... sanoisinko, tämä on täysin verrannollinen siihen, mitä olemme nähneet Yhdysvalloissa. <|prosody:speed_slow|>Trump ei ole ongelma, Trump on oire.",
+    "type": "followup",
+    "startMs": 203677
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Nii ja sit Demokraatti-lehti kirjottaa tästä sillee... <|sfx:humming|>mmm..<|prosody:pause|>ihan ku tää olis joku hirveä tragedia, et liberaalit teki sopimuksen paholaisen kaa.",
+    "type": "dialogue",
+    "startMs": 212516
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|emotion:amusement|>Siis toi valtamedia on ihan sekasin, oikeesti!",
+    "type": "dialogue",
+    "startMs": 221741
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Jep.",
+    "type": "interjection",
+    "startMs": 224661
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|prosody:speed_fast|>Ne yrittää pelotella... siis pelotella tavallisia ihmisiä sillee et jos sä äänestät kansallismielisiä ni sit tulee joku fasismi. <|prosody:pause|>Mä näen sen niin et... <|prosody:pause|>no, ne pelkää. <|prosody:speed_slow|>Ne oikeesti pelkää sitä et me viedään niiltä se valta!",
+    "type": "followup",
+    "startMs": 224861
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Aivan.",
+    "type": "interjection",
+    "startMs": 238541
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Kankaanpäässäki kunnanvaltuustossa näkee ihan saman. <|prosody:speed_fast|>Meillä oli just tota... <|sfx:humming|>mmm..<|prosody:pause|>budjettikokous, mis mä ehdotin et leikataan vähän näistä maahanmuuton kotouttamispalveluista. <|prosody:pause|>Heti kun me perussuomalaiset sanotaan joku maalaisjärjellä ajateltu asia... vaikka ettei meillä oo varaa ottaa tänne elätettäviä...",
+    "type": "statement",
+    "startMs": 238941
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Kyllä.",
+    "type": "interjection",
+    "startMs": 257621
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|style:shouting|>...ni heti alkaa se saatanan huuto jostain vihapuheesta! <|prosody:pause|>Se on niin tekopyhää, ne vihreät valtuutetut itki siel kirjaimellisesti.",
+    "type": "followup",
+    "startMs": 257941
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "No joo, toi on ihan tyypillistä.",
+    "type": "dialogue",
+    "startMs": 267042
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Tämä Ringan kuvaama ilmiö on juuri sitä mikrotason vallankäyttöä, jota vastaan ruotsidemokraatit ovat kamppailleet. <|prosody:pause|>Minä muistan hyvin Fulbright-vuoteni Washingtonissa 2004.",
+    "type": "statement",
+    "startMs": 269076
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|sfx:humming|>Mm-m.",
+    "type": "interjection",
+    "startMs": 279996
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Silloin seurasin American Enterprise Instituten aitiopaikalta, kuinka amerikkalainen oikeisto alkoi ensimmäistä kertaa ymmärtää, ettei vasemmiston moraaliposeerausta voi voittaa myötäilemällä.",
+    "type": "followup",
+    "startMs": 280236
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:speed_slow|>Konservatiivien on pakko asettaa kovat rajat. <|prosody:pause|>Ruotsin liberaalit oppivat tämän kantapään kautta, kun jengiväkivalta ja no-go-alueet muuttuivat mahdottomiksi piilotella.",
+    "type": "statement",
+    "startMs": 291241
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Toi on hyvä silta tähän meidän kotimaan tilanteeseen. Aatellaan nyt vaikka tätä... <|sfx:humming|>mmm..<|prosody:pause|>Jessi Jokelaista.",
+    "type": "dialogue",
+    "startMs": 301989
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ilta-Sanomat teki oikein sellasen... <|prosody:pause|>no, sankaritarinan tästä, kuinka hän on nyt avoimesti \"punainen sosialisti\" ja peräänkuuluttaa kunnon vasemmistopopulismia.",
+    "type": "dialogue",
+    "startMs": 309879
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Tämä on erittäin mielenkiintoinen ilmiö, Matti. <|prosody:pause|>Vasemmisto on huomannut, että heidän pehmeä identiteettipolitiikkansa ei enää riitä mobilisoimaan massoja.",
+    "type": "dialogue",
+    "startMs": 321358
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Nii.",
+    "type": "interjection",
+    "startMs": 330158
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Siksi he turvautuvat nyt tällaiseen aggressiivisempaan retoriikkaan. <|prosody:speed_slow|>Jokelainen puhuu punamultayhteistyöstä ikään kuin eläisimme yhä 1970-lukua.",
+    "type": "followup",
+    "startMs": 330638
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|style:shouting|>Siis mä en kestä tommosta yhtään!",
+    "type": "interruption",
+    "startMs": 339577
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Anna palaa vaan.",
+    "type": "interjection",
+    "startMs": 341617
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|prosody:speed_fast|>Et joku kehtaa ees kutsua itteään ihan pokkana sosialistiks nykypäivänä! <|prosody:pause|>Me tiietään tasan tarkkaan mitä se tarkottaa tälle maalle.",
+    "type": "dialogue",
+    "startMs": 342377
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Totta.",
+    "type": "interjection",
+    "startMs": 349617
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|prosody:expressive_high|>Ne vie meidän rahat, ne tuhoo ydinperheen ja... <|prosody:pause|>siis hyi vittu... syöttää tota lgbt-tuubaa meidän lapsille!",
+    "type": "followup",
+    "startMs": 349897
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Nii ja onhan tää kieltämättä vähän koomista et Jokelainen uhoo jostain punamullasta. <|prosody:pause|>Eihän keskusta ikinä lähe tohon kelkkaan.",
+    "type": "dialogue",
+    "startMs": 359456
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ne on... <|prosody:pause|>no, ne on mitä on, mut ei ne nyt sentään täysin itsemurhaa halua tehä.",
+    "type": "dialogue",
+    "startMs": 367529
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:expressive_low|>Olen täsmälleen samaa mieltä. <|prosody:pause|>Jokelaisen puheet ovat puhdasta teatteria.",
+    "type": "dialogue",
+    "startMs": 372829
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Tässä täytyy tehdä eräs... <|prosody:pause|>hyvin keskeinen käsite-ero. <|prosody:speed_slow|>Jokelainen ei edusta perinteistä työväenluokan sosialismia. <|prosody:pause|>Hän edustaa akateemista kulttuurimarxismia, joka on vain kuorrutettu taloudellisella populismilla.",
+    "type": "statement",
+    "startMs": 378294
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Just tollasta se on.",
+    "type": "interjection",
+    "startMs": 392134
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "He eivät oikeasti välitä teollisuustyöntekijän ostovoimasta. <|prosody:speed_slow|>Heidän tavoitteensa on purkaa koko länsimainen sivilisaatio.",
+    "type": "followup",
+    "startMs": 393454
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Toi on... <|sfx:humming|>mmm..<|prosody:pause|>tosi hyvi sanottu. Ja Jani Mäkelä sano ihan oikein siel Iltalehden jutussa, et lannoitteena ne vasemmistolaiset siel oikeesti elää.",
+    "type": "dialogue",
+    "startMs": 400968
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Nii elääki! <|prosody:speed_fast|>Muiden tekemillä rahoilla tääl vaa loistaan ja sit ne hyökkää meidän kimppuun jotka halutaan vaa turvallinen Suomi.",
+    "type": "dialogue",
+    "startMs": 409446
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Jep.",
+    "type": "interjection",
+    "startMs": 416566
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Mä muistan ku mä olin siel Ylen suorassa lähetyksessä... <|prosody:pause|>oliks se nyt pari vuotta sit. <|prosody:speed_fast|>Ja siel ne yritti hiljentää mut heti ku mä mainitsin et... <|prosody:pause|>et tää avointen rajojen politiikka tuhoaa meidän koulut.",
+    "type": "statement",
+    "startMs": 417006
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Aivan.",
+    "type": "interjection",
+    "startMs": 428846
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|prosody:speed_fast|>Sit se juontaja alko keskeyttään mua ja vaatimaan jotain lähteitä! <|prosody:pause|>Mä lähdin sieltä lähetyksestä käveleen ku en mä tollasta sensuuria jaksa saakeli katella.",
+    "type": "followup",
+    "startMs": 429566
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Se oli kyl hieno veto sulta oikeesti. <|prosody:pause|>Valtamedia tykkää tosta Jokelaisesta siks ku se on niille sellanen... <|sfx:humming|>mmm..<|prosody:pause|>söpö radikaali, jota on kiva pumpata ylöspäin.",
+    "type": "dialogue",
+    "startMs": 439260
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Aivan, media on osa tätä samaa ideologiakoneistoa. <|prosody:pause|>Toimittajat jakavat saman maailmankuvan näiden agitaattoreiden kanssa.",
+    "type": "dialogue",
+    "startMs": 451034
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Totta kai.",
+    "type": "interjection",
+    "startMs": 458314
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:speed_fast|>Yhdysvalloissa Heritage Foundation on julkaissut ansiokkaita raportteja siitä, kuinka syvälle valtamedian ja radikaalivasemmiston symbioosi ulottuu. <|prosody:pause|>Suomessa olemme vain... <|prosody:pause|>kenties kymmenen vuotta jäljessä, mutta suunta on täsmälleen sama.",
+    "type": "followup",
+    "startMs": 458874
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Mut onks tässä nyt sit... <|sfx:humming|>mmm..<|prosody:pause|>Harri, onks tässä mitään toivoa?",
+    "type": "dialogue",
+    "startMs": 473930
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ku tavallaan naapurimaan liberaalit on nyt näyttäny vähän mallia et pystytään yhdistyyn tota vasemmistoa vastaan.",
+    "type": "dialogue",
+    "startMs": 478829
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:expressive_low|>Toivoa on ehdottomasti. <|prosody:pause|>Kuten aiemmin mainitsin, Trumpin nousu on vahva osoitus siitä, että konservatiivinen herätys on mahdollinen.",
+    "type": "dialogue",
+    "startMs": 485360
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|emotion:elation|>Kyl!",
+    "type": "interjection",
+    "startMs": 493480
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:speed_slow|>Euroopassa näemme saman. <|prosody:pause|>Unkarissa Orbán teki aivan oikein rakentaessaan järjestelmän, joka suojelee kansallisia arvoja sisältäpäin.",
+    "type": "followup",
+    "startMs": 494440
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|style:shouting|>Mut meidän pitää vaatia asioita äänekkäämmin!",
+    "type": "interruption",
+    "startMs": 503380
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Niin pitää.",
+    "type": "interjection",
+    "startMs": 505540
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|prosody:speed_fast|>Ei me voida vaan oottaa et joku kokoomus... <|prosody:pause|>hyi helvetti, siis mä en luota niihin pätkääkään. <|prosody:pause|>Ne kääntää takkinsa heti ku joku saatanan vihreä siirtymä sitä vaatii.",
+    "type": "followup",
+    "startMs": 506260
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|style:shouting|>Meidän äitien ja isien pitää mennä barrikadeille tän vasemmiston mielivallan takia!",
+    "type": "dialogue",
+    "startMs": 516403
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:expressive_low|>Ymmärrän turhautumisesi täysin, Ringa. <|prosody:pause|>Mutta poliittinen muutos vaatii myös rakenteellista strategiointia, pelkkä tunteenpalo ei riitä tähän taisteluun.",
+    "type": "dialogue",
+    "startMs": 521174
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|sfx:humming|>Mmm.",
+    "type": "interjection",
+    "startMs": 529814
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:speed_slow|>Tarvitsemme koulutettuja, perillä olevia johtajia, jotka pystyvät purkamaan tämän järjestelmän askeleen kerrallaan sisältä käsin. <|prosody:pause|>Me emme voi pelkästään huutaa torilla.",
+    "type": "followup",
+    "startMs": 530014
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "No joo toi on totta, mut ei me voida vaan jotain analyysejä pyöritellä samal ku maata tuhotaan!",
+    "type": "dialogue",
+    "startMs": 541273
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Täs on molemmissa pointtinsa hei.",
+    "type": "dialogue",
+    "startMs": 547461
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Mä muistan muuten törmäsin tähän samaan asenteeseen, josta Ringa puhu, silloin ku mä olin viel siel ATK-tuessa töissä.",
+    "type": "statement",
+    "startMs": 549516
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Ahaa.",
+    "type": "interjection",
+    "startMs": 555756
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Siel oli yks... <|prosody:pause|>no, ihan pesunkestävä vihreä koodari, joka vaahtos päivät pitkät jostain monimuotosuudesta.",
+    "type": "followup",
+    "startMs": 556236
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ja heti ku mä mainitsin et... <|prosody:pause|>et ehkä nää rekrytointikiintiöt vähän laskee laatua, ni mut leimattiin täysin. <|prosody:speed_slow|>Se oli se hetki ku mun herääminen oikeesti alko.",
+    "type": "statement",
+    "startMs": 564476
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|emotion:pride|>Nimenomaa! Ne ei kestä totuutta.",
+    "type": "dialogue",
+    "startMs": 576919
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Se on tyypillinen defenssimekanismi. <|prosody:pause|>Kun argumentit loppuvat, alkaa leimaaminen.",
+    "type": "dialogue",
+    "startMs": 580130
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Just näin.",
+    "type": "dialogue",
+    "startMs": 585146
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:speed_fast|>Me tarvitaan sitä Harrin mainitsemaa strategista otetta, mut me tarvitaan ehdottomasti myös tota Ringan... <|sfx:humming|>mmm..<|prosody:pause|>tinkimätöntä asennetta.",
+    "type": "statement",
+    "startMs": 586459
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:speed_slow|>Se on se kombo millä me voidaan oikeesti voittaa tää kulttuurisota ja lyödä toi vasemmistopopulismi takasin sinne mistä se on tulluki.",
+    "type": "statement",
+    "startMs": 595601
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|emotion:elation|>Aamen!",
+    "type": "interjection",
+    "startMs": 602961
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Mut eiköhän tää ala olla tässä tältä erää. <|prosody:pause|>Aika rientää ku on... <|prosody:pause|>no, oikeeta asiaa.",
+    "type": "statement",
+    "startMs": 603841
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Kiitos todella paljon Ringa ku pääsit linjoille Kankaanpäästä.",
+    "type": "statement",
+    "startMs": 610839
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|emotion:affection|>Kiitti Matti, oli taas tosi virkistävää puhua asioista suoraan. <|prosody:expressive_high|>Siunausta kaikille kuuntelijoille!",
+    "type": "statement",
+    "startMs": 614736
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ja kiitos Harri tästä... <|sfx:humming|>mmm..<|prosody:pause|>syväluotaavasta analyysistä, mitä me täällä aina kaivataan.",
+    "type": "statement",
+    "startMs": 621471
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:expressive_low|>Kiitos itsellesi, Matti. <|prosody:speed_slow|>Jatketaan tätä tärkeää työtä.",
+    "type": "statement",
+    "startMs": 628345
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Tehdään näin. <|prosody:pause|>Se on kuulkaas moro ja ens viikkoon!",
+    "type": "statement",
+    "startMs": 632156
+  }
+]

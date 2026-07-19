@@ -1,0 +1,1003 @@
+[
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Tervetuloa taas Oikeaa asiaa -podcastin pariin, mä oon Matti Nieminen ja tää on se paikka mis totuus tulee esiin, vaik valtamedia yrittäis kaikkensa piilotella näitä asioita.",
+    "type": "statement",
+    "startMs": 2000
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Tänään meil on tosi kova kattaus, mä oon saanu studioon taas pari tuttua ääntä, ja alotetaa täst... mmm<|prosody:pause|>.. ekana meil on tääl poliittinen kommentaattori Peter Holmberg, morjes Peter.",
+    "type": "statement",
+    "startMs": 12278
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "<|prosody:expressive_low|>Päivää Matti, ja kiitos kutsusta. On aina ilo olla täällä keskustelemassa.",
+    "type": "statement",
+    "startMs": 24268
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Miten sun kesä siel Kaivopuiston suunnilla on menny, onks siel huomattu näitä...<|prosody:pause|> yhteiskunnallisia muutoksia?",
+    "type": "dialogue",
+    "startMs": 28401
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "<|emotion:contemplation|>Oikein mainiosti, kiitos. Olen...<|prosody:pause|> jos rehellisiä ollaan, olen pyrkinyt hieman eristäytymään päivänpolitiikasta ja lukemaan Douglas Murrayn teoksia uudelleen.",
+    "type": "dialogue",
+    "startMs": 34896
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Aivan.",
+    "type": "interjection",
+    "startMs": 47096
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Se antaa huomattavasti paremman perspektiivin tähän hysterian ilmapiiriin, jota valtamedia päivittäin tuottaa.",
+    "type": "followup",
+    "startMs": 47976
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Kyl, sitä hysteriaa todellaki riittää. Ja sit toisena vieraana meil on Kankaanpään ääni, valtuutettu ja bloggaaja Ringa Turunen, tervetuloa!",
+    "type": "dialogue",
+    "startMs": 55409
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|emotion:contentment|>Kiitti Matti! Tosi mukava olla taas tääl, ja voin sanoo ettei tääl tarvi mitään englanninkielisiä kirjoja lukee et näkee mihin tää maa on menossa.",
+    "type": "dialogue",
+    "startMs": 64228
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|sfx:laughter|>Heh.",
+    "type": "interjection",
+    "startMs": 73028
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Sen näkee ihan omilla silmillä arjessa.",
+    "type": "followup",
+    "startMs": 73428
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Mites sul on siel Satakunnassa menny, onks ollu rauhallista?",
+    "type": "dialogue",
+    "startMs": 76209
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|prosody:expressive_high|>No silleen... mmm<|prosody:pause|>.. no ei todellakaa oo, mä sain taas vaihteeks yhen Facebook-bännin ku menin siihen Suomalaiset äidit -ryhmään sanomaan suoraan mitä mä aattelen tosta pride-tuputuksesta lapsille.",
+    "type": "dialogue",
+    "startMs": 79417
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Eikä.",
+    "type": "interjection",
+    "startMs": 90897
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Kyl vaan, ihan käsittämätöntä touhua, ei oo jumalan suunnitelma tämmönen sensuuri, mut ei me hiljennytä.",
+    "type": "followup",
+    "startMs": 91417
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Juuri näin, ja siit on hyvä aasinsilta päivän aiheeseen, ku meillä on täs... oota nyt...<|prosody:pause|> tää koko oikeisto-vasemmisto-asetelma räjähtäny ihan käsiin.",
+    "type": "statement",
+    "startMs": 99048
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Iltalehti ja Ilta-Sanomat uutisoi täst Jani Mäkelän ja Jessi Jokelaisen yhteenotosta, mis tää vasemmistoliiton Jokelainen siis ihan avoimesti kutsuu kapitalismia paskaks ja julistautuu punaseks sosialistiks.",
+    "type": "statement",
+    "startMs": 108139
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Tämä on itse asiassa erittäin mielenkiintoinen, vaikkakin varsin odotettu kehityskulku.",
+    "type": "statement",
+    "startMs": 121245
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Tässä täytyy tehdä ero tavallisen poliittisen retoriikan ja puhtaan kulttuurimarxismin välillä, sillä Jokelaisen lausunnot edustavat nimenomaan jälkimmäistä.",
+    "type": "statement",
+    "startMs": 126766
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Ihan totta!",
+    "type": "interjection",
+    "startMs": 136006
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "He eivät enää edes yritä peitellä sitä, että heidän perimmäinen tavoitteensa on länsimaisen markkinatalouden ja yhteiskuntarakenteen täydellinen purkaminen.",
+    "type": "followup",
+    "startMs": 136966
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Mäkelähän sano sitä Iltalehdelle suoraan vasurin moukkamaisuudeks, ja mun mielestä se osu kyl ihan naulan kantaan.",
+    "type": "dialogue",
+    "startMs": 146661
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|prosody:expressive_high|>No osu todellaki! Siis mua... mua oikeesti ihan puistattaa tommonen puhe joltain kansanedustajalta.",
+    "type": "dialogue",
+    "startMs": 153544
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Nii.",
+    "type": "interjection",
+    "startMs": 159624
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|prosody:speed_fast|>Nää nuoret vasemmiston naiset, ne luulee et raha kasvaa jossain taikaseinässä. Haukutaan kapitalismi paskaks mut sit samalla vaaditaan lisää tukia ja otetaan sitä kokouspalkkiota siel eduskunnassa.",
+    "type": "followup",
+    "startMs": 160264
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Jep.",
+    "type": "interjection",
+    "startMs": 172464
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|prosody:expressive_high|>Ei saatana, kysynpähän vaa kuka senki palkan niille maksaa? Ne suomalaiset yrittäjät ja duunarit, jotka yrittää täs hulluudessa selvitä ja ruokkia omat lapset!",
+    "type": "followup",
+    "startMs": 172944
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Kyl, ja tää on just se...<|prosody:pause|> se ydinongelma, ku mäki muistan sillo ku mä olin vielä siel punavihreissä piireissä ATK-hommissa, ni se ajattelumaailma on oikeesti toi.",
+    "type": "statement",
+    "startMs": 182504
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ne ei niinku tajua yhtään mistä se hyvinvointi tulee, kaikki on vaa jotain saavutettuja oikeuksia mitä sit jaetaan maahanmuuttajille ja jengi vaan taputtaa.",
+    "type": "statement",
+    "startMs": 192967
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Matti, tuo on täysin totta. Ja kuten Jordan Peterson on usein huomauttanut, tämä uhriutumisen kulttuuri on tarkoituksellinen strategia.",
+    "type": "statement",
+    "startMs": 202443
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Jokelainen käyttää tätä radikaalia kieltä, koska hän tietää sen resonoivan tietyn urbaanin vihervasemmistolaisen kuplan sisällä, joka on täysin irtaantunut taloudellisista realiteeteista.",
+    "type": "statement",
+    "startMs": 211885
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Aivan.",
+    "type": "interjection",
+    "startMs": 223805
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "<|prosody:speed_slow|>Mutta ongelma ei ole vain Jokelainen. Ongelma on se, miten sivistyneenä pidetty oikeisto on vuosikausia antanut tälle ideologialle periksi.",
+    "type": "followup",
+    "startMs": 224405
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "No just tää! Ja tää vie meidät suoraan tähän kokoomuksen tilanteeseen. MTV Uutisten Pöllöraatihan tossa kauhisteli et kokoomuksen kannatus on ihan sulamassa.",
+    "type": "statement",
+    "startMs": 237126
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ne yrittää miellyttää kaikkia, ja Demokraatti-lehti kirjotti täst tosi mielenkiintosen analyysin, vetäen yhtäläisyyksiä Ruotsiin.",
+    "type": "statement",
+    "startMs": 246617
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Kyllä, luin kyseisen artikkelin. Siinä Demokraatti – kaikesta vasemmistolaisuudestaan huolimatta – osui poikkeuksellisesti oikeaan.",
+    "type": "dialogue",
+    "startMs": 254607
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|emotion:surprise|>Ai osuko?",
+    "type": "dialogue",
+    "startMs": 263093
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "<|prosody:speed_slow|>Kyllä. Ruotsin maltillinen kokoomus, eli Moderaterna, joutui lopulta ymmärtämään, että demografia on kohtalo.",
+    "type": "dialogue",
+    "startMs": 264590
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|sfx:humming|>Mm.",
+    "type": "interjection",
+    "startMs": 272390
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Heidän oli pakko normalisoida välinsä ruotsidemokraattien kanssa, koska raaka vaalimatematiikka ja Ruotsin kaduilla räjähtelevä todellisuus eivät yksinkertaisesti jättäneet muuta vaihtoehtoa.",
+    "type": "followup",
+    "startMs": 272830
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Niinpä.",
+    "type": "interjection",
+    "startMs": 284830
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Suomessa kokoomus on nyt täsmälleen identtisessä tilanteessa. Heidän on ollut pakko peesata perussuomalaisia, eli niin sanotusti 'persuuntua', pysyäkseen vallassa.",
+    "type": "followup",
+    "startMs": 285310
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Mä en kyl oo tosta ihan samaa mieltä et ne olis oikeesti persuuntunu, Peter.",
+    "type": "dialogue",
+    "startMs": 295833
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Kuinka niin?",
+    "type": "dialogue",
+    "startMs": 300161
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "No ku kokoomushan on ihan... no, elitistinen puolue, joka vaan esittää oikeistolaista ku se on niille pakko.",
+    "type": "dialogue",
+    "startMs": 301121
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Totta.",
+    "type": "interjection",
+    "startMs": 307521
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Ne on pohjimmiltaan ihan samoja globalisteja ku demarit. Ne vaan myy meiän maan pikkasen hitaammin.",
+    "type": "followup",
+    "startMs": 307801
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Toi on kyl semmonen pointti mihin jengi alkaa kans pikkuhiljaa herätä, ja siksihän me tehään tätä podiaki ku ei valtamedia näistä puhu.",
+    "type": "statement",
+    "startMs": 314305
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Mut siis antaaks kokoomus vaa niinku...<|prosody:pause|> tyhjiä lupauksia perussuomalaisille hallituksessa?",
+    "type": "statement",
+    "startMs": 322114
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Ymmärrän turhautumisesi täysin, Ringa. Mutta meidän täytyy tarkastella tätä pragmaattisesti.",
+    "type": "dialogue",
+    "startMs": 328140
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Miten nii pragmaattisesti?",
+    "type": "dialogue",
+    "startMs": 334820
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Vaikka kokoomuksen johto olisi kuinka kansainvälisen liberalismin sokaisema, he eivät voi hallita ilman kansallismielistä tukea. Se on heidän akilleenkantapäänsä.",
+    "type": "dialogue",
+    "startMs": 336843
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Just.",
+    "type": "interjection",
+    "startMs": 346683
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Ja jos perussuomalaiset pelaavat korttinsa oikein, he voivat käyttää kokoomusta oman agendansa edistämiseen, aivan kuten Ruotsissa on onnistuneesti tehty.",
+    "type": "followup",
+    "startMs": 346963
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|prosody:expressive_high|>No mut se ei toimi tuol arjessa!",
+    "type": "interruption",
+    "startMs": 356551
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Voisitko tarkentaa?",
+    "type": "dialogue",
+    "startMs": 358858
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Mä olin eilen siel meijän kunnanvaltuuston kokouksessa... mmm<|prosody:pause|>.. ja siel puhuttii näist maahanmuuttajien kotouttamisrahoista.",
+    "type": "dialogue",
+    "startMs": 360441
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Joo.",
+    "type": "interjection",
+    "startMs": 367481
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Niin arvaas kuka vastusti sitä et noit kuluja leikattais? No kokoomuslaiset! Ykski semmonen hieno rouva vaa pyöritteli mulle silmiään ku mä sanoin et meijän omat vanhukset kärsii.",
+    "type": "followup",
+    "startMs": 368321
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|emotion:confusion|>Ei jumalauta.",
+    "type": "interjection",
+    "startMs": 378721
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Nii! Et ei niitä oikeesti kiinnosta pätkääkään mikää isänmaan etu, niitä kiinnostaa vaa et ne saa pitää ne omat kivat verkostonsa ja miellyttää jotain EU-herroja.",
+    "type": "followup",
+    "startMs": 379361
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>No tää todellaki kiteyttää sen kokoomuksen tekopyhyyden. Ja se vituttaa, anteeks nyt vaa kielenkäyttö, mut se vituttaa et valtamedia ei kysy näiltä mitään kriittisiä kysymyksiä.",
+    "type": "statement",
+    "startMs": 390950
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Jos perussuomalainen sanoo jotain vähäkää värikkäämpää niinku vaikka tää Mäkelä, ni Hesarit ja muut on heti siel kimpussa et oivoi kuinka moukkamaista puhetta.",
+    "type": "statement",
+    "startMs": 403038
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Tämä on klassinen esimerkki siitä, kuinka instituutiot ovat vasemmiston hallussa.",
+    "type": "statement",
+    "startMs": 412235
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Roger Scruton kirjoitti aikoinaan siitä, kuinka kieli itsessään kaapataan poliittiseksi aseeksi. Jokelainen saa puhua 'paskasta', ja se nähdään raikkaana nuorekkaana kapinana.",
+    "type": "statement",
+    "startMs": 417876
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Nimenomaa!",
+    "type": "interjection",
+    "startMs": 428956
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Mutta kun konservatiivi käyttää voimakasta ilmaisua puolustaakseen perinteistä järjestystä, hänet leimataan välittömästi uhkaksi demokratialle.",
+    "type": "followup",
+    "startMs": 429836
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Niinpä, ja sit suvakkien mielestä mä oon hirviö ku mä sanon et mun lapset ansaitsee enemmän ku tän paskan mitä ne kouluissa nykyään syöttää.",
+    "type": "dialogue",
+    "startMs": 439209
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Totta.",
+    "type": "interjection",
+    "startMs": 446609
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Ei mul oo yhtään häpeä siitä et mä oon äitinä huolissani, mut sit media...<|prosody:pause|> ne tekee meistä tyhmiä rasisteja ihan järjestelmällisesti.",
+    "type": "followup",
+    "startMs": 447369
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ja tää on se pointti mihin tää kokoomuksen sulaminenki liittyy. Ne niinku yrittää olla olemassa tuol valtamedian hyväksymässä kuplassa, mut todellisuus hakkaa päälle.",
+    "type": "statement",
+    "startMs": 456259
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|emotion:contemplation|>Mä muistan ku mä ite tajusin tän... se oli sillon korona-aikana yhtenä iltana ku mä katoin jotain Ylen uutisia ja mietin et ei tää voi olla totta, tää on niinku ihan suoraa propagandaa.",
+    "type": "statement",
+    "startMs": 465505
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Se on juuri sitä. Ja siksi riippumattomat mediat ja tällaiset alustat ovat elintärkeitä vapaalle yhteiskunnalle.",
+    "type": "dialogue",
+    "startMs": 477575
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Kyl.",
+    "type": "interjection",
+    "startMs": 484015
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Jos palaamme siihen Demokraatin artikkeliin, siinä sivuttiin myös sitä, kuinka vasemmistoliitto yrittää nyt pelata omalla populismillaan.",
+    "type": "followup",
+    "startMs": 484455
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Joo, miten sä sen näät?",
+    "type": "dialogue",
+    "startMs": 492556
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Se on hyvin vaarallista. He yrittävät luoda keinotekoisen vastakkainasettelun, jossa he esiintyvät työväenluokan puolustajina, vaikka heidän todellinen agendansa on puhtaan kulttuurimarxistinen.",
+    "type": "dialogue",
+    "startMs": 494264
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Ihan totta, ja se näkyy just noissa Jokelaisen puheissa.",
+    "type": "dialogue",
+    "startMs": 507278
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Jep.",
+    "type": "interjection",
+    "startMs": 509998
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Ne yrittää miellyttää SDP:tä et ne pääsis sit seuraavaan hallitukseen estämään nää muka kauheet oikeistoleikkaukset, mut todellisuudessa ne haluu vaa jatkaa sitä rahan kippaamista maailmalle.",
+    "type": "followup",
+    "startMs": 510198
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Täsmälleen näin. Ja siksihän Jokelainen totesi, että SDP tarvitsee vasemmistoliittoa, jotta kokoomusyhteistyöltä vältytään.",
+    "type": "dialogue",
+    "startMs": 521637
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Aivan.",
+    "type": "interjection",
+    "startMs": 530397
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "<|prosody:speed_slow|>Se on suora uhkaus demareille: jos ette suostu meidän radikaaliin linjaamme, menetätte uskottavuutenne vasemmiston silmissä.",
+    "type": "followup",
+    "startMs": 530677
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ja tää on kyl semmonen yhtälö mikä... mmm<|prosody:pause|>.. mikä tulee vielä räjähtämään silmille, koska ei tommosel politiikal vaan voi pyörittää valtiota.",
+    "type": "statement",
+    "startMs": 541082
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|emotion:pride|>Mut hei, tää on ollu taas ihan loistavaa settiä, me ollaa saatu kyl purettuu tää tilanne tosi hyvin, ja mä toivon et kuulijat jakaa tätä jaksoo eteenpäin kerta valtamedia ei näitä asioita avaa.",
+    "type": "statement",
+    "startMs": 551149
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Peter, iso kiitos ku pääsit taas linjoille avaamaa näitä teorioita ja Ruotsin tilannetta.",
+    "type": "statement",
+    "startMs": 562723
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "<|emotion:contentment|>Kiitos Matti. Keskustelu oli jälleen kerran äärimmäisen antoisa, ja on tärkeää pitää näitä teemoja esillä.",
+    "type": "statement",
+    "startMs": 569563
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ehdottomasti. Ja Ringa, kiitos sulle sinne Kankaanpäähän, pidä lippu korkeella siellä valtuustossa!",
+    "type": "statement",
+    "startMs": 578003
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|emotion:pride|>Kiitti Matti! Ja mä kyl lupaan et en oo hiljaa, vaik tulis sata Facebook-bänniä, ei täs auta periks antaa.",
+    "type": "statement",
+    "startMs": 584074
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Just näin. Nii kaua ku tää podi on pystyssä ni me jatketaan näiden oikeiden asioiden esiin nostamista.",
+    "type": "statement",
+    "startMs": 591625
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Tää oli Oikeaa asiaa, mä oon Matti Nieminen. Ensi viikkoon, morjes!",
+    "type": "statement",
+    "startMs": 598346
+  }
+]

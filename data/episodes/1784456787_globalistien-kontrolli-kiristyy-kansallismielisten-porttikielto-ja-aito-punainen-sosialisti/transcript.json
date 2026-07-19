@@ -1,0 +1,1058 @@
+[
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Tervetuloa taas Oikeaa asiaa -podcastin pariin.",
+    "type": "statement",
+    "startMs": 2000
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|emotion:contemplation|>Mä oon Matti Nieminen ja me käsitellään tääl taas niitä teemoja mitkä..<|prosody:pause|> no, miten sen nyt sanois, mitkä valtamedia yrittää lakaista jatkuvasti maton alle.",
+    "type": "statement",
+    "startMs": 6062
+  },
+  {
+    "speaker": {
+      "id": "pirjo-harmaja",
+      "name": "Pirjo Harmaja",
+      "type": "guest",
+      "avatar": "avatar-5.png"
+    },
+    "line": "<|sfx:humming|>mm.",
+    "type": "interjection",
+    "startMs": 16022
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:speed_fast|>Ja jonkun on pakko nää asiat tuoda esiin, koska tää tilanne alkaa olla ihan..<|prosody:pause|> ihan katastrofi.",
+    "type": "followup",
+    "startMs": 16342
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Tääl on tänään asiantuntijavieraana tuttuun tapaan poliittinen kommentaattori Peter Holmberg. Miten siel Kaivopuistossa, onks tota..<|prosody:pause|> syksyn viinit jo valittu?",
+    "type": "statement",
+    "startMs": 22067
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Kiitoksia Matti. Oikein hyvää kuuluu. Olen itse asiassa juuri syventynyt Roger Scrutonin esseisiin uudelleen, ja täytyy sanoa, että ne resonoivat tässä ajassa poikkeuksellisen vahvasti. Viinikellari on toki myös ajan tasalla.",
+    "type": "statement",
+    "startMs": 31788
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|sfx:laughter|>Heh, no pitäähän se olla.",
+    "type": "interjection",
+    "startMs": 45468
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ja sit meil on toisena vieraana Tampereelta Pirjo Harmaja, joka yrittäjänä näkee vähän toisenlaista puolta. Miten siel Pispalan luontaistuotekaupalla, onks kansa jo heränny tähän syksyyn?",
+    "type": "statement",
+    "startMs": 46948
+  },
+  {
+    "speaker": {
+      "id": "pirjo-harmaja",
+      "name": "Pirjo Harmaja",
+      "type": "guest",
+      "avatar": "avatar-5.png"
+    },
+    "line": "No tota..<|prosody:pause|> kiitos Matti kutsusta eka. Kyl tääl on..<|prosody:pause|><|sfx:humming|>mmm..<|prosody:pause|> mä oon niinku huomannu et asiakkaat on nyt alkusyksystä tosi..<|prosody:pause|> niil on hirveesti semmosta selittämätöntä ahdistusta, et energiat on ollu ihan tukossa.",
+    "type": "statement",
+    "startMs": 58952
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Aivan.",
+    "type": "interjection",
+    "startMs": 74392
+  },
+  {
+    "speaker": {
+      "id": "pirjo-harmaja",
+      "name": "Pirjo Harmaja",
+      "type": "guest",
+      "avatar": "avatar-5.png"
+    },
+    "line": "Et mä just laitoin Instagramiiki vähän päivitystä siit miten nää..<|prosody:pause|> nää uudet 5G-taajuudet nyt vaikuttaa meihin tosi vahvasti ja pitää ihmiset semmoses jatkuvas pelkotilassa.",
+    "type": "followup",
+    "startMs": 74752
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Se ahdistus on kyl ihan ymmärrettävää ku kattoo tätä uutistarjontaa.",
+    "type": "statement",
+    "startMs": 86297
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Tänään meillä on meinaa kolme aika..<|prosody:pause|><|sfx:humming|>mmm..<|prosody:pause|> aika jäätävää uutista, mitkä kietoutuu ihan suoraan tähän teemaan. Yle uutisoi et Britannian uus matkustuslupa-automaatio estää suomalaisten maahanpääsyä, ja siel on pantu porttikieltoon muun muassa Sebastian Tynkkynen ja Päivi Räsänen..<|prosody:pause|><|sfx:humming|>mmm..<|prosody:pause|> näiden niinku vihapuhetuomioiden takia.",
+    "type": "statement",
+    "startMs": 90322
+  },
+  {
+    "speaker": {
+      "id": "pirjo-harmaja",
+      "name": "Pirjo Harmaja",
+      "type": "guest",
+      "avatar": "avatar-5.png"
+    },
+    "line": "<|emotion:surprise|>Eikä!",
+    "type": "interjection",
+    "startMs": 111002
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Siis tää on jotain ihan uskomatonta, et toisen maan järjestelmä lukee jotain suomalaisia mielipidetuomioita ja päättää et sä et pääse maahan.",
+    "type": "followup",
+    "startMs": 111602
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Tässä täytyy tehdä selkeä ero normaalin rajavalvonnan ja ideologisen kontrollin välillä.",
+    "type": "statement",
+    "startMs": 120310
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Nimenomaa.",
+    "type": "interjection",
+    "startMs": 125270
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Se, mitä Iso-Britannia nyt tekee...<|prosody:pause|> tähän pitää katsoa vähän laajempaa kuvaa...<|prosody:pause|> se on suora osoitus siitä, miten ylikansalliset tietojärjestelmät valjastetaan poliittisen toisinajattelun kitkemiseen. He lukevat näitä tuomioita kuin ne olisivat absoluuttisia totuuksia, vaikka me tiedämme, että Räsäsenkin tapauksessa kyse on puhtaasti...",
+    "type": "followup",
+    "startMs": 125790
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ihan pelkästä ajatusrikoksesta.",
+    "type": "interruption",
+    "startMs": 147867
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Juuri näin. Kyse on ajatusrikoksesta. Totalitarismi ei nykypäivänä saavu saappaat jalassa marssien, vaan se hiipii sisään näiden digitaalisten...<|prosody:pause|> sanotaanko byrokraattisten algoritmien kautta.",
+    "type": "statement",
+    "startMs": 150409
+  },
+  {
+    "speaker": {
+      "id": "pirjo-harmaja",
+      "name": "Pirjo Harmaja",
+      "type": "guest",
+      "avatar": "avatar-5.png"
+    },
+    "line": "Joo ja tää on..",
+    "type": "interjection",
+    "startMs": 162729
+  },
+  {
+    "speaker": {
+      "id": "pirjo-harmaja",
+      "name": "Pirjo Harmaja",
+      "type": "guest",
+      "avatar": "avatar-5.png"
+    },
+    "line": "Saanks mä vähän kommentoida? Ku mä...<|prosody:pause|> mä luin eilen illalla tota uutista ja mulle tuli heti ihan kylmät väreet, koska tää on ihan täsmälleen sitä samaa mitä ne testas meillä sillo korona-aikana niil..<|prosody:pause|> niil rokotepasseilla.",
+    "type": "statement",
+    "startMs": 163529
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|sfx:humming|>mm.",
+    "type": "interjection",
+    "startMs": 178249
+  },
+  {
+    "speaker": {
+      "id": "pirjo-harmaja",
+      "name": "Pirjo Harmaja",
+      "type": "guest",
+      "avatar": "avatar-5.png"
+    },
+    "line": "Et eka sulta viedään oikeus mennä ravintolaan tai kauppaan jos et sä ota sitä...<|prosody:pause|> sitä lääkettä kehoos.",
+    "type": "followup",
+    "startMs": 178529
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Nii-i.",
+    "type": "interjection",
+    "startMs": 184809
+  },
+  {
+    "speaker": {
+      "id": "pirjo-harmaja",
+      "name": "Pirjo Harmaja",
+      "type": "guest",
+      "avatar": "avatar-5.png"
+    },
+    "line": "Ja nyt sit viedään oikeus matkustaa, jos sä oot puhunu jotain mitä ne ei haluu sun puhuvan. Tää on se ihan sama globaali kontrollijärjestelmä.",
+    "type": "followup",
+    "startMs": 185249
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Olet tässä asiassa oikeilla jäljillä, Pirjo. Vaikka en ehkä lääketieteellisestä puolesta tekisi aivan samoja johtopäätöksiä, niin tämä mekanismi on täsmälleen sama.",
+    "type": "statement",
+    "startMs": 193691
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Se on just se mekanismi!",
+    "type": "interjection",
+    "startMs": 204051
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Valtiot ja ylikansalliset toimijat luovat infrastruktuurin, jolla yksilön vapauksia voidaan rajoittaa mielivaltaisesti yleisen edun nimissä. Douglas Murray on kirjoittanut tästä ilmiöstä erittäin terävästi.",
+    "type": "followup",
+    "startMs": 205291
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ja miettikää sitä et...<|prosody:pause|> oota nyt.. siis ku Räsänenki on vaan siteerannu Raamattua. Ni se on sit muka joku turvallisuusuhka!",
+    "type": "statement",
+    "startMs": 218684
+  },
+  {
+    "speaker": {
+      "id": "pirjo-harmaja",
+      "name": "Pirjo Harmaja",
+      "type": "guest",
+      "avatar": "avatar-5.png"
+    },
+    "line": "Niinpä!",
+    "type": "interjection",
+    "startMs": 226444
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ja sit Tynkkynen on puhunu täysin faktoja maahanmuutosta, sellasii asioita mitä kansa näkee omilla silmillään tääl kaduilla joka ikinen päivä. Ni sit näist tulee jotain rikostietoja mitkä jaetaan ympäri maailmaa automaattisesti.",
+    "type": "followup",
+    "startMs": 227124
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Eiks tää oo just sitä mitä sä oot niinku sun teksteissä paljon painottanu..<|prosody:pause|><|sfx:humming|>mmm..<|prosody:pause|> tätä kulttuurimarxismia?",
+    "type": "dialogue",
+    "startMs": 240582
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Kyllä, ehdottomasti. Kulttuurimarxismin perimmäinen tavoite on juuri instituutioiden ja kielen haltuunotto.",
+    "type": "dialogue",
+    "startMs": 247188
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ja nyt ne on ottanu noi rajat haltuun.",
+    "type": "dialogue",
+    "startMs": 254535
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Rajat, oikeuslaitoksen ja jopa sen, kuka saa ylipäätään osallistua julkiseen keskusteluun vapaasti. Kun ihminen leimataan, hänet voidaan eristää koko läntisestä yhteisöstä.",
+    "type": "dialogue",
+    "startMs": 256610
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Tää on niin totta. Mä muistan sillo...<|prosody:pause|><|sfx:humming|>mmm..<|prosody:pause|> oliko se nyt vuos sitte, ku mä kokeilin myydä sitä mun..<|prosody:pause|> sitä mikä sen nimi nyt oli, Punainen pilleri -verkkokurssia, et porukka sais ees jotain työkaluja ymmärtää tätä peliä.",
+    "type": "statement",
+    "startMs": 268880
+  },
+  {
+    "speaker": {
+      "id": "pirjo-harmaja",
+      "name": "Pirjo Harmaja",
+      "type": "guest",
+      "avatar": "avatar-5.png"
+    },
+    "line": "<|sfx:humming|>mm.",
+    "type": "interjection",
+    "startMs": 282240
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ni meni pari päivää ja se maksunvälittäjä sulki mun tilin täysin varottamatta!",
+    "type": "followup",
+    "startMs": 282840
+  },
+  {
+    "speaker": {
+      "id": "pirjo-harmaja",
+      "name": "Pirjo Harmaja",
+      "type": "guest",
+      "avatar": "avatar-5.png"
+    },
+    "line": "Eikä!",
+    "type": "interjection",
+    "startMs": 287120
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Joo! Siel luki vaan joku copy-paste-viesti et 'rikkoo yhteisösääntöjä'. Siis ne yritti viedä mun elinkeinon ihan vaan siks, et mä puhun näist oikeista asioista.",
+    "type": "followup",
+    "startMs": 287720
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Tuo on klassinen esimerkki siitä, miten taloudellinen infrastruktuuri aseistetaan toisinajattelijoita vastaan. Sitä ei tee enää valtio suoraan, vaan nämä globaalit suuryritykset tekevät sen likaisen työn heidän puolestaan.",
+    "type": "statement",
+    "startMs": 297628
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Aivan.",
+    "type": "interjection",
+    "startMs": 312348
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Mut sit samaan aikaan, ku meit yritetään hiljentää.. ni kattokaa mitä siel vasemmistossa tapahtuu. Iltalehti julkas tänään jutun täst vasemmistoliiton Jessi Jokelaisesta.",
+    "type": "statement",
+    "startMs": 312988
+  },
+  {
+    "speaker": {
+      "id": "pirjo-harmaja",
+      "name": "Pirjo Harmaja",
+      "type": "guest",
+      "avatar": "avatar-5.png"
+    },
+    "line": "Oi voi.",
+    "type": "interjection",
+    "startMs": 321388
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|emotion:contemplation|>Se julisti siel ihan avoimesti olevansa punainen sosialisti! Siis se puhu jostain vasemmistopopulismin palauttamisesta, ja oli ihan niinku ylpeenä siit. Maskit alkaa kyl putoilla täs maassa.",
+    "type": "followup",
+    "startMs": 322188
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Tämä on itse asiassa erittäin oireellista nykyiselle poliittiselle ilmastollemme. Vasemmisto on huomannut, että heidän ei enää tarvitse piilotella todellisia tavoitteitaan.",
+    "type": "statement",
+    "startMs": 333385
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "mm-m.",
+    "type": "interjection",
+    "startMs": 343505
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Kun yhteiskunnan perusrakenteita on riittävästi heikennetty...<|prosody:pause|> tai pikemminkin, kun ne on tarkoituksella murennettu...<|prosody:pause|> tällainen avoin sosialistinen...<|prosody:pause|> tai jopa kommunistinen retoriikka muuttuu täysin salonkikelpoiseksi.",
+    "type": "followup",
+    "startMs": 343785
+  },
+  {
+    "speaker": {
+      "id": "pirjo-harmaja",
+      "name": "Pirjo Harmaja",
+      "type": "guest",
+      "avatar": "avatar-5.png"
+    },
+    "line": "Se on ihan hirveetä.",
+    "type": "interjection",
+    "startMs": 357865
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Oikeistolaista populismia kauhistellaan mediassa päivittäin, mutta punainen sosialismi nähdään valtamedian silmissä vain jonkinlaisena piristävänä rohkeutena.",
+    "type": "followup",
+    "startMs": 359345
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Just näin! Kui monta kertaa mä sain vihreissä.. sillo ku mä siellä vielä joskus kauan sitte olin yrittämässä vaikuttaa.. ni kui monta kertaa siel pyöriteltiin silmiä ja huokailtiin jos mä sanoin et meidän pitäis keskittyy suomalaisten asioihin?",
+    "type": "statement",
+    "startMs": 370485
+  },
+  {
+    "speaker": {
+      "id": "pirjo-harmaja",
+      "name": "Pirjo Harmaja",
+      "type": "guest",
+      "avatar": "avatar-5.png"
+    },
+    "line": "Aivan.",
+    "type": "interjection",
+    "startMs": 383525
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Sitä katottii ihan silleen et 'mikä rasisti toi on'. Mut sit joku avoin sosialismi, ni se on sit pelkkää plussaa!",
+    "type": "followup",
+    "startMs": 384245
+  },
+  {
+    "speaker": {
+      "id": "pirjo-harmaja",
+      "name": "Pirjo Harmaja",
+      "type": "guest",
+      "avatar": "avatar-5.png"
+    },
+    "line": "<|emotion:contemplation|>Ja aattekaa minkälaista energiaa tommosen sanan niinku 'punainen sosialisti' ympärillä oikeesti pyörii.",
+    "type": "statement",
+    "startMs": 392987
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Nii-i.",
+    "type": "interjection",
+    "startMs": 399307
+  },
+  {
+    "speaker": {
+      "id": "pirjo-harmaja",
+      "name": "Pirjo Harmaja",
+      "type": "guest",
+      "avatar": "avatar-5.png"
+    },
+    "line": "Se on ihan puhdasta vihaa ja niinku jakolinjojen luomista ihmisten välille. Eiks meidän pitäis yrittää nostaa meidän kaikkien värähtelytasoa eikä repiä meitä toisiaan vastaan tommosella...<|prosody:pause|> tommosella myrkyllisellä agendalla?",
+    "type": "followup",
+    "startMs": 399907
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "No mut sitä ne just haluu, et kansa tappelee keskenään.",
+    "type": "dialogue",
+    "startMs": 414821
+  },
+  {
+    "speaker": {
+      "id": "pirjo-harmaja",
+      "name": "Pirjo Harmaja",
+      "type": "guest",
+      "avatar": "avatar-5.png"
+    },
+    "line": "Niin haluu, ja siks valtamedia aina nostaa tämmöset tyypit jalustalle.",
+    "type": "dialogue",
+    "startMs": 417670
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Täysin tarkotuksella, ettei me huomattais mitä oikeesti tapahtuu.",
+    "type": "dialogue",
+    "startMs": 422317
+  },
+  {
+    "speaker": {
+      "id": "pirjo-harmaja",
+      "name": "Pirjo Harmaja",
+      "type": "guest",
+      "avatar": "avatar-5.png"
+    },
+    "line": "Just se! Et saadaan ihmiset pelkäämään ja vihaamaan toisiaan, ni ne ei nää sitä todellista kontrollia.",
+    "type": "dialogue",
+    "startMs": 426865
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Pirjo osuu tässä erittäin tärkeään maaliin. Jakolinjat ovat tahallisia. Kun kansa pidetään kiireisenä näillä identiteettipoliittisilla konflikteilla, heiltä jää huomaamatta, miten taloudellista itsemääräämisoikeutta ajetaan alas.",
+    "type": "statement",
+    "startMs": 434517
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|sfx:humming|>mm.",
+    "type": "interjection",
+    "startMs": 449117
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ja tosta päästäänki suoraan siihen kolmanteen uutiseen! Verkkouutiset teki eilen tosi karun analyysin täst tulevasta talouskurimuksesta tääl kotimaassa.",
+    "type": "statement",
+    "startMs": 449437
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Aivan.",
+    "type": "interjection",
+    "startMs": 458557
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Siel väläytellään et sitku me saadaan seuraava hallitus.. mikä on varmaa joku SDP:n johtama katastrofi.. ni ne joutuu tekemään ihan massiivisia leikkauksia. Puhutaan jopa et tarvitaan ysärin laman kaltanen yhteisymmärrys puolueiden välillä.",
+    "type": "followup",
+    "startMs": 459077
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Talouden realiteetit alkavat lopulta aina tulla vastaan, vaikka vasemmisto kuinka yrittäisi elää velaksi. Ongelma on vain se, että kun näitä sopeutustoimia lähdetään tekemään, järjestelmä ei suostu luopumaan niistä puhtaasti ideologisista hankkeistaan.",
+    "type": "statement",
+    "startMs": 473099
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Jep.",
+    "type": "interjection",
+    "startMs": 487939
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Kehitysapu, hallitsematon maahanmuutto ja tämä loputon woke-hype pidetään koskemattomina vakiomäärärahoina, mutta suomalaisen duunarin ja eläkeläisen toimeentulosta tullaan leikkaamaan säälimättä.",
+    "type": "followup",
+    "startMs": 488979
+  },
+  {
+    "speaker": {
+      "id": "pirjo-harmaja",
+      "name": "Pirjo Harmaja",
+      "type": "guest",
+      "avatar": "avatar-5.png"
+    },
+    "line": "<|style:shouting|>Ei jumalauta, tää on just tää mitä mä oon yrittäny sanoo!",
+    "type": "interruption",
+    "startMs": 501610
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Sano muuta.",
+    "type": "interjection",
+    "startMs": 505090
+  },
+  {
+    "speaker": {
+      "id": "pirjo-harmaja",
+      "name": "Pirjo Harmaja",
+      "type": "guest",
+      "avatar": "avatar-5.png"
+    },
+    "line": "Tää on..<|prosody:pause|> emmä tiiä ootteks te huomannu mut tää kaikki kertautuu. Kun ihmiset ajetaan taloudellisesti ihan ahtaalle, niillä ei oo enää resursseja kyseenalaistaa näitä asioita.",
+    "type": "followup",
+    "startMs": 505650
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Aivan.",
+    "type": "interjection",
+    "startMs": 516250
+  },
+  {
+    "speaker": {
+      "id": "pirjo-harmaja",
+      "name": "Pirjo Harmaja",
+      "type": "guest",
+      "avatar": "avatar-5.png"
+    },
+    "line": "Sä joudut pahimmillaan tekeen kahta työtä et pystyy maksaan jotain.. noit taivaisiin nousseita sähkölaskuja tai ruokaa mikä maksaa nykyään ihan maltaita täs maassa.",
+    "type": "followup",
+    "startMs": 516850
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|sfx:humming|>mm.",
+    "type": "interjection",
+    "startMs": 526530
+  },
+  {
+    "speaker": {
+      "id": "pirjo-harmaja",
+      "name": "Pirjo Harmaja",
+      "type": "guest",
+      "avatar": "avatar-5.png"
+    },
+    "line": "Ja sitku sä oot ihan uupunu ja sun keho on jatkuvassa stressitilassa, ni sillon ihminen on kaikkein helpoimmin kontrolloitavissa. Se on Big Pharman ja tän koko eliitin märkä uni.",
+    "type": "followup",
+    "startMs": 526650
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Toihan on..<|prosody:pause|> oota, toi on itse asiassa törkeen hyvä pointti, Pirjo.",
+    "type": "statement",
+    "startMs": 538126
+  },
+  {
+    "speaker": {
+      "id": "pirjo-harmaja",
+      "name": "Pirjo Harmaja",
+      "type": "guest",
+      "avatar": "avatar-5.png"
+    },
+    "line": "mm-m.",
+    "type": "interjection",
+    "startMs": 541886
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Koska mä muistan sillo korona-aikaan, ku mä olin ite lomautettuna..<|prosody:pause|> ni se ahdistus siit miten rahat riittää..<|prosody:pause|> se oli ihan käsin kosketeltavaa.",
+    "type": "followup",
+    "startMs": 542206
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Kyllä.",
+    "type": "interjection",
+    "startMs": 550406
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|emotion:pride|>Mut se oli kans se viimenen sysäys mulle..<|prosody:pause|> se herätys et nää asiat ei voi olla sattumaa. Suomi on oikeesti suomalaisia varten, eikä meidän tarvi uhrata meidän hyvinvointia jonkun globaalin sirkuksen takia.",
+    "type": "followup",
+    "startMs": 551086
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Täsmälleen näin. Demografinen muutos ja tämä taloudellinen kurjistuminen kulkevat käsi kädessä. Kun perhettä ja kansallista identiteettiä murennetaan, jäljelle jää vain eristetty, velkaantunut yksilö, jolla ei ole kykyä vastustaa valtiota.",
+    "type": "statement",
+    "startMs": 563568
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ihan totta.",
+    "type": "interjection",
+    "startMs": 579368
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Ja kun tämä yksilö erehtyy sanomaan mielipiteensä ääneen, kuten Tynkkynen tai Räsänen ovat tehneet, hänet suljetaan yhteiskunnan ulkopuolelle. Se on saumaton järjestelmä.",
+    "type": "followup",
+    "startMs": 580048
+  },
+  {
+    "speaker": {
+      "id": "pirjo-harmaja",
+      "name": "Pirjo Harmaja",
+      "type": "guest",
+      "avatar": "avatar-5.png"
+    },
+    "line": "Niin on. Mut tiedättekö mikä täs on se toivonkipinä?",
+    "type": "statement",
+    "startMs": 591729
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "No sano.",
+    "type": "interjection",
+    "startMs": 594769
+  },
+  {
+    "speaker": {
+      "id": "pirjo-harmaja",
+      "name": "Pirjo Harmaja",
+      "type": "guest",
+      "avatar": "avatar-5.png"
+    },
+    "line": "Se et ihmiset on oikeesti alkamas herätä. Mun luontaistuotekaupalla käy nykyään sellastaki porukkaa..<|prosody:pause|> ihan tavallisia perheenäitejä..<|prosody:pause|> jotka alkaa kysellä näistä asioista. Et ne intuitiivisesti vaistoaa et täs virallisessa tarinassa on jotain pahasti vialla.",
+    "type": "followup",
+    "startMs": 595209
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|emotion:contentment|>Kyl! Kansa alkaa niinku herätä pikkuhiljaa, ja siksihän me tehään tätä podcastiaki joka viikko.",
+    "type": "statement",
+    "startMs": 611892
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Et saatais nää valheet purettua yks kerrallaan.",
+    "type": "statement",
+    "startMs": 618966
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Mut hei, kello alkaa olla sen verran et meidän pitää ruveta..<|prosody:pause|><|sfx:humming|>mmm..<|prosody:pause|> paketoimaan tätä hommaa tältä erää.",
+    "type": "statement",
+    "startMs": 621725
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Tää oli kyllä taas..<|prosody:pause|> siis ihan loistava keskustelu, ja näyttää kyl vahvasti siltä et meidän pitää pitää silmät auki tän syksyn aikana.",
+    "type": "statement",
+    "startMs": 630934
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Iso kiitos Peter Holmberg, mahtavaa ku pääsit taas linjoille.",
+    "type": "statement",
+    "startMs": 639550
+  },
+  {
+    "speaker": {
+      "id": "peter-holmberg",
+      "name": "Peter Holmberg",
+      "type": "guest",
+      "avatar": "avatar-1.png"
+    },
+    "line": "Kiitos Matti, oli ilo olla mukana keskustelemassa.",
+    "type": "statement",
+    "startMs": 643830
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ja kiitos Tampereen vahvistus Pirjo Harmaja, pysy vahvana siel Pispalan energioissa.",
+    "type": "statement",
+    "startMs": 647393
+  },
+  {
+    "speaker": {
+      "id": "pirjo-harmaja",
+      "name": "Pirjo Harmaja",
+      "type": "guest",
+      "avatar": "avatar-5.png"
+    },
+    "line": "<|sfx:laughter|>Heh, kiitos Matti, yritetään pysyä valossa!",
+    "type": "statement",
+    "startMs": 652883
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Juuri näin. Ja teille kaikille siel ruutujen ja kuulokkeiden päässä..<|prosody:pause|> pitäkää mieli kirkkaana ja älkää antako pelolle valtaa. Oikeaa asiaa palaa taas ens viikolla.",
+    "type": "statement",
+    "startMs": 656305
+  }
+]

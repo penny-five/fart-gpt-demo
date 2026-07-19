@@ -1,0 +1,1179 @@
+[
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>No niin, oikein hyvää iltaa ja tervetuloa taas Oikeaa asiaa -podcastin pariin.",
+    "type": "statement",
+    "startMs": 2000
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_low|>Mä oon Matti Nieminen, ja tää on se kanava mis...<|prosody:pause|> mmm..<|prosody:pause|> mis me uskalletaan puhua niistä asioista joista valtamedia haluaa vaieta.",
+    "type": "statement",
+    "startMs": 7524
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Meil on tänään tosi tiukka kattaus vieraita.<|prosody:pause|> Otetaa eka täst...<|prosody:pause|> Suomen Kansallisen Heräämisen puheenjohtaja Santtu Koivisto, tervetuloa.",
+    "type": "statement",
+    "startMs": 16583
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "Kiitos Matti, tosi hienoo olla taas tääl studiossa.",
+    "type": "statement",
+    "startMs": 25595
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Miten on kesä menny siel...<|prosody:pause|> mmm..<|prosody:pause|> siel Lahden suunnilla? Onks tullu paljon palautetta ihmisiltä toriteltalla?",
+    "type": "dialogue",
+    "startMs": 29221
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "Kyl on. Me oltiin just tiistaina siel torilla, ja se on...<|prosody:pause|> no miten mä sen nyt sanoisin, se on ollu aika silmiä avaavaa.",
+    "type": "dialogue",
+    "startMs": 36649
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Mm.",
+    "type": "interjection",
+    "startMs": 45289
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "Siel kävi monta semmosta pitkän linjan perussuomalaista äänestäjää, jotka tuli ihan suoraan sanoon et 'Santtu, te olitte oikeessa'.",
+    "type": "followup",
+    "startMs": 45489
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Jep, kansa alkaa niinku herätä pikkuhiljaa. Ne näkee sen petoksen.",
+    "type": "dialogue",
+    "startMs": 54770
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "Täsmälleen näin. Sitä on tavallaan surullista katsoo mut samalla se antaa uskoo tähän meidän liikkeeseen.",
+    "type": "dialogue",
+    "startMs": 58981
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ja sit meil on tääl toisena vieraana...<|prosody:pause|> mmm..<|prosody:pause|> vapaa tutkija, tai no, oikea dosentti Harri Auvinen. Tervetuloa herra dosentti.",
+    "type": "statement",
+    "startMs": 66813
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Kiitoksia, Matti. Ja kyllä, käytän tuota dosentin titteliä aivan tietoisesti edelleen.",
+    "type": "statement",
+    "startMs": 76252
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Aivan.",
+    "type": "interjection",
+    "startMs": 81172
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Se, että yliopiston ideologiakoneisto on päättänyt minun toimeksiantoni...<|prosody:pause|> se ei poista minun akateemista pätevyyttäni tai historiaani.",
+    "type": "followup",
+    "startMs": 81452
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ei todellaki, eiks ne yrittäny jopa kieltää sua käyttämästä sitä sähköposteissa?",
+    "type": "dialogue",
+    "startMs": 89235
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Kyllä, yliopiston henkilöstöhallinto on tuota...<|prosody:pause|> he ovat esittäneet tällaisia toiveita. Mutta minä en heidän sääntöihinsä taivu.",
+    "type": "dialogue",
+    "startMs": 93893
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Oikein.",
+    "type": "interjection",
+    "startMs": 101973
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Olen käyttänyt tämän kesän lähinnä kirjoittamalla Substackiin...<|prosody:pause|> minulla on siellä laaja analyysi tästä amerikkalaisen ja suomalaisen konservatismin erosta.",
+    "type": "followup",
+    "startMs": 102493
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "Kyl, mä luin sen, se oli tosi kova.",
+    "type": "interjection",
+    "startMs": 110813
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Kiitos, Santtu. Se amerikkalainen malli on se, mistä meidän tulisi oppia, jos haluamme pelastaa tämän länsimaisen sivilisaation.",
+    "type": "followup",
+    "startMs": 113333
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Mut mennääpä sit päivän aiheeseen, koska tää on...<|prosody:pause|> oota nyt, täähän on ihan uskomaton soppa mitä tääl Suomen politiikassa nyt keitetään.",
+    "type": "statement",
+    "startMs": 121155
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Iltalehti uutisoi, et eduskunta on varautunu lennättään kansanedustajia lomalta takasin Helsinkiin ihan veronmaksajien piikkiin.",
+    "type": "statement",
+    "startMs": 129579
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "<|emotion:surprise|>Ei jumalauta.",
+    "type": "interjection",
+    "startMs": 137899
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Nimenomaa! Tuhansien eurojen lomalennot siks, et saadaa tiistain luottamusäänestykseen oikeet voimasuhteet.",
+    "type": "followup",
+    "startMs": 138899
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ja täähän koskee tätä Garden Helsinki -hanketta ja pääministeri Orpon...<|prosody:pause|> no, sanotaan se suoraan, Orpon hämärää korruptiota.",
+    "type": "statement",
+    "startMs": 145846
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Oikeuskansleri Janne Salminen on laittanu jo kaks tiukkaa selvityspyyntöä Orpolle esteellisyydestä.",
+    "type": "statement",
+    "startMs": 154348
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ja kaiken tän keskellä perussuomalaiset, jotka ennen huusi eliittiä vastaan, istuu siel hallituksessa kumileimasimena.",
+    "type": "statement",
+    "startMs": 162522
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Harri, sä oot tutkinu näitä valtarakenteita...<|prosody:pause|> mmm..<|prosody:pause|> miten sä analysoit tätä Petteri Orpon ja rakennusneuvos Ilpo Kokkilan kytköstä?",
+    "type": "dialogue",
+    "startMs": 169896
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Tässä täytyy erottaa kaksi asiaa, Matti. Ensimmäinen on se konkreettinen toiminta, ja toinen on tämä rakenteellinen ongelma.",
+    "type": "dialogue",
+    "startMs": 179411
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Mm-m.",
+    "type": "interjection",
+    "startMs": 186051
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Ilpo Kokkila ei ole kuka tahansa liikemies. Hän on kokoomuksen ja erityisesti Petteri Orpon pitkäaikainen vaalirahoittaja.",
+    "type": "followup",
+    "startMs": 186251
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Ja nyt me näemme, että kaksi massiivista hanketta...<|prosody:pause|> siis tämä Helsinki Garden ja Valmet Automotiven pelastaminen, molemmat kytkeytyvät häneen.",
+    "type": "statement",
+    "startMs": 194960
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "Aivan.",
+    "type": "interjection",
+    "startMs": 203040
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Tämä on juuri sitä, mitä minä olen amerikkalaisen politiikan kontekstissa tutkinut. Tämä on meidän versiomme siitä, mitä Donald Trump kutsuu 'suoksi'.",
+    "type": "followup",
+    "startMs": 203600
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Minä muistan elävästi, kun olin Fulbright-stipendiaattina Washingtonissa tuota...<|prosody:pause|> vuonna 2004.",
+    "type": "statement",
+    "startMs": 212385
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Joo.",
+    "type": "interjection",
+    "startMs": 218625
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Siellä minä näin, miten Heritage Foundationin asiantuntijat purkivat näitä verkostoja. Se ei ollut tällaista suomalaista suhmurointia.",
+    "type": "followup",
+    "startMs": 219025
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Mut eiks tää oo just sitä mitä valtamedia on yrittäny peitellä? Maaseudun Tulevaisuus kyl kirjotti et Orposta on tulossa rasite, mut Hesari on ollu aika hiljaa.",
+    "type": "dialogue",
+    "startMs": 227453
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Kyllä. Valtamedia suojelee tiettyjä toimijoita, koska ne jakavat saman ideologisen pohjan. Tämä ei ole mikään salaliittoteoria, Matti.",
+    "type": "dialogue",
+    "startMs": 236470
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Just näin.",
+    "type": "interjection",
+    "startMs": 244230
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Tämä on täysin empiirinen havainto, jonka jokainen rehellinen akateemikko tekee ennemmin tai myöhemmin.",
+    "type": "followup",
+    "startMs": 244510
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "Saanks mä hypätä tohon väliin?",
+    "type": "interruption",
+    "startMs": 249978
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Joo anna mennä vaan.",
+    "type": "dialogue",
+    "startMs": 252403
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "Se mikä täs mua eniten...<|prosody:pause|> tai mikä meitä kansallismielisiä oikeesti vituttaa, on tää perussuomalaisten rooli täs koko sirkuksessa.",
+    "type": "dialogue",
+    "startMs": 253864
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "No nii-i!",
+    "type": "interjection",
+    "startMs": 262504
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "Aamulehden pääkirjoituskin sen jo sano, et Orpo haluu sitouttaa persut tähän Garden-kelkkaan. Se teki tästä hallituksen tiedonannon tahallaan.",
+    "type": "followup",
+    "startMs": 263344
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "Ne pakottaa persut riviin. Ja mitä tekee Jani Mäkelä?",
+    "type": "statement",
+    "startMs": 272789
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Niin.",
+    "type": "interjection",
+    "startMs": 276469
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "Se yrittää siel somessa selittää, et tää on vaan opposition kesäteatteria. Se on ihan absurdia!",
+    "type": "followup",
+    "startMs": 277429
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "<|prosody:speed_fast|>Perussuomalaiset teki sen kompromissin päästäkseen valtaan, ja nyt ne joutuu puolusteleen jotain vitun elitistien taitoluisteluareenoita verorahoilla.",
+    "type": "statement",
+    "startMs": 284579
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Mä sain just eilen taas yhen X-bännin...<|prosody:pause|> siis entisessä Twitterissä, ku mä laitoin Mäkelälle suoraa palautetta tästä Kokkilan rahoituksesta.",
+    "type": "dialogue",
+    "startMs": 293848
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "Eikä.",
+    "type": "interjection",
+    "startMs": 302528
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Kyl vaan. Ne ei siis kestä sitä totuutta ollenkaan. Heti ku suomalainen mies kysyy oikeita kysymyksiä verkossa, ni tilit menee kii.",
+    "type": "followup",
+    "startMs": 303088
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "Jep, ja se kertoo vaan siitä et ne tietää itekin hävinneensä tän pelin. Niillä ei oo enää kansallista linjaa.",
+    "type": "dialogue",
+    "startMs": 311330
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Jos minä saan tuota...<|prosody:pause|> lisätä yhden havainnon tähän perussuomalaisten dynamiikkaan.",
+    "type": "interruption",
+    "startMs": 317672
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ole hyvä.",
+    "type": "dialogue",
+    "startMs": 322811
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Ongelmahan on siinä, että perussuomalaisilta puuttuu syvempi ideologinen viitekehys. Heillä ei ole sitä konservatiivista selkärankaa, joka esimerkiksi Unkarissa on rakennettu.",
+    "type": "dialogue",
+    "startMs": 323693
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "Totta.",
+    "type": "interjection",
+    "startMs": 334133
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Orbán teki oikein. Hän ymmärsi, että valtaan ei mennä tekemään kompromisseja vasemmiston tai tämän...<|prosody:pause|> tämän globaalin eliitin ehdoilla.",
+    "type": "followup",
+    "startMs": 334653
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:speed_fast|>Mutta perussuomalaiset kuvittelevat, että kun he istuvat samoissa pöydissä Jan Vapaavuoren ja muiden kokoomuslaisten lobbarien kanssa, he ovat ikään kuin saavuttaneet jotain.",
+    "type": "statement",
+    "startMs": 343025
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|sfx:laughter|>Nii, luulee olevansa jotain herroja itekin.",
+    "type": "dialogue",
+    "startMs": 352574
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "Just näin. Ja sit samaan aikaan suomalaisen etnisen identiteetin suojelu...<|prosody:pause|> se mistä puolueen piti alun perin välittää, ni se on lakaistu täysin maton alle.",
+    "type": "dialogue",
+    "startMs": 355550
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Mm.",
+    "type": "interjection",
+    "startMs": 365470
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "Maahanmuuttopolitiikka ei oo mikään humanitaarinen kysymys, se on eksistentiaalinen kysymys meidän kansalle. Mut nyt tärkeempää on pelastaa joku Valmet Automotive.",
+    "type": "followup",
+    "startMs": 365910
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Tässä minun täytyy tuota...<|prosody:pause|> ehkä hivenen haastaa sinua, Santtu.",
+    "type": "dialogue",
+    "startMs": 377089
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "Anna tulla.",
+    "type": "dialogue",
+    "startMs": 381081
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Minä en näe asiaa puhtaasti etnisestä näkökulmasta, vaan laajemmin länsimaisen sivilisaation ja klassisen konservatismin kriisinä.",
+    "type": "dialogue",
+    "startMs": 382769
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ahaa.",
+    "type": "interjection",
+    "startMs": 390169
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Eli kyse on siitä, että nämä hyvät veljet -verkostot mädättävät sen meritokratian ja vapaan markkinatalouden, jonka varaan meidän yhteiskuntamme on rakennettu.",
+    "type": "followup",
+    "startMs": 390649
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "No joo, mut me ei...<|prosody:pause|> siis me ei voida sivuuttaa sitä faktaa, et kuka tätä maata asuttaa sadan vuoden päästä.",
+    "type": "dialogue",
+    "startMs": 398720
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "Kansan omaehtoinen jatkuvuus on se ydin. Me ollaan nähty mitä tapahtuu ku tämmöset ylikansalliset intressit ja eliitin harrastusprojektit menee kaiken edelle.",
+    "type": "statement",
+    "startMs": 407056
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Niin ja miettikää tätä oikeuskansleri Janne Salmisen roolia täs!",
+    "type": "statement",
+    "startMs": 417293
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Mm-m.",
+    "type": "interjection",
+    "startMs": 420773
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Satakunnan Kansa ja Iltalehti uutisoi et Salminen on...<|prosody:pause|> mmm...<|prosody:pause|> no, se on lähettäny jo kaks selvityspyyntöä Orpolle täst esteellisyydestä.",
+    "type": "followup",
+    "startMs": 421133
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Virkamieskunta on vastustanu tota Garden-hanketta ihan kybällä. Siis ne luvuthan on ihan vanhentuneita, ja silti runnotaa läpi.",
+    "type": "statement",
+    "startMs": 431088
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Tismalleen.",
+    "type": "interjection",
+    "startMs": 439128
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Ja kuka siellä taustalla lobbaa? Entinen kokoomusministeri Jan Vapaavuori. Tämä on täydellinen oppikirjaesimerkki korruptiosta, jota minä analysoin jo väitöskirjassani vuonna 1997.",
+    "type": "followup",
+    "startMs": 439888
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ai sä käsittelit tätä teemaa jo sillon?",
+    "type": "dialogue",
+    "startMs": 453149
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Kyllä. Minun...<|prosody:pause|> tuota, minun tutkimukseni käsitteli poliittisten eliittien irtautumista kansallisvaltion intresseistä.",
+    "type": "dialogue",
+    "startMs": 455418
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "Ahaa.",
+    "type": "interjection",
+    "startMs": 462818
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Se on prosessi, joka alkoi Suomessa EU-jäsenyyden myötä ja on nyt kulminoitunut tähän täydelliseen ylimielisyyteen, jota Orpon hallitus edustaa.",
+    "type": "followup",
+    "startMs": 463498
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Se on just silleen. Suomi on suomalaisia varten, eiks nii? Se pitäis olla itsestäänselvyys.",
+    "type": "statement",
+    "startMs": 471908
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "Kyl.",
+    "type": "interjection",
+    "startMs": 476948
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Mut sen sijaan meillä on tää...<|prosody:pause|> tää tämmönen globaali mädätys ja kulttuurimarxismi, mikä vie meidän rahat ja itsenäisyyden, ja sit eliitti nauraa meille matkalla pankkiin.",
+    "type": "followup",
+    "startMs": 477268
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "Siks SKH:n kasvu on hidasta mut todellista. Me ei haeta noita pinnallisia protestiääniä, siks me jätetään toi tommonen teatteri persuille.",
+    "type": "dialogue",
+    "startMs": 487135
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Paljon teil muuten oli nyt jäseniä?",
+    "type": "dialogue",
+    "startMs": 496417
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "Meil on pikkasen päälle sata neljäkymmentä semmosta aktiivista jäsentä. Ja kuntavaaleissa tuli se yli kolmesataa ääntä.",
+    "type": "dialogue",
+    "startMs": 498791
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Kova.",
+    "type": "interjection",
+    "startMs": 505911
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "Jep, ja meidän viikkokatsaus vetää porukkaa koko ajan lisää. Ihmiset haluu ideologista tarkkuutta, ei mitään poliittista broilerinlihaa.",
+    "type": "followup",
+    "startMs": 506271
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Tässä on myös huomattava se, että Trump ei ole se ongelma, mistä media huutaa. Trump on oire. Ongelma on se, mitä hän kritisoi.",
+    "type": "statement",
+    "startMs": 515670
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Mm.",
+    "type": "interjection",
+    "startMs": 523350
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Ja Orpon tapauksessa ongelma on tämä täysin häpeämätön veronmaksajien rahojen kuppaaminen omien tukijoiden taskuun.",
+    "type": "followup",
+    "startMs": 523590
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|emotion:elation|>Juuri näin! Tää on ollu...<|prosody:pause|> oota, tää on ollu ihan älyttömän kova keskustelu. Me aletaan pikkuhiljaa lähestyä tunnin rajaa täs.",
+    "type": "statement",
+    "startMs": 529733
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Mut onks teil heittää joku...<|prosody:pause|> silleen joku loppukaneetti tähän, mitä suomalaisen pitäis täst kaikest nyt sit aatella?",
+    "type": "dialogue",
+    "startMs": 538360
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "No mä sanoisin et...<|prosody:pause|> älkää uskoko mitä ne puhuu, katsokaa mitä ne tekee. Hallitusohjelma on täynnä kauniita puheita, mut teot on tätä Kokkilan tukemista.",
+    "type": "dialogue",
+    "startMs": 545090
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Jep.",
+    "type": "interjection",
+    "startMs": 555450
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "Meidän pitää irtautuu tästä länsimaisesta teatterista ja alkaa taas rakentaa puhtaasti kansallista tulevaisuutta.",
+    "type": "followup",
+    "startMs": 555770
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ihan totta. Mites dosentti Auvinen, mitkä on sun loppusanat?",
+    "type": "dialogue",
+    "startMs": 563088
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Minä kehottaisin kaikkia...<|prosody:pause|> tuota, lukemaan itsenäisiä lähteitä. Älkää luottako valtamediaan, joka on osa tätä samaa ideologiakoneistoa.",
+    "type": "dialogue",
+    "startMs": 566719
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Aivan.",
+    "type": "interjection",
+    "startMs": 575959
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Ja jos haluatte ymmärtää näitä valtarakenteita, niin suosittelen käymään minun Substack-sivullani lukemassa uusimman esseeni.",
+    "type": "followup",
+    "startMs": 576719
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ehdottomasti. Hei, mä haluun kiittää teitä molempia todella paljon. Santtu Koivisto, oli mahtavaa ku olit taas messissä.",
+    "type": "statement",
+    "startMs": 584909
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "Kiitos Matti, aina yhtä mukavaa poiketa.",
+    "type": "dialogue",
+    "startMs": 593079
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ja Harri Auvinen, kiitos sulleki, sun analyysit on kyl aina silleen...<|prosody:pause|> ne osuu ihan ytimeen.",
+    "type": "dialogue",
+    "startMs": 596500
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Kiitoksia, Matti. Oli ilo olla mukana.",
+    "type": "dialogue",
+    "startMs": 602043
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Tää oli Oikeaa asiaa -podcast. Me jatketaan taas ens viikolla uusilla aiheilla, ku valtamedia yrittää taas jotain salata.",
+    "type": "statement",
+    "startMs": 604146
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Käykää laittaa tilaus nappiin siel somessa...<|prosody:pause|> ja muistakaa, totuus tulee esiin. Morjes!",
+    "type": "statement",
+    "startMs": 612102
+  }
+]

@@ -1,0 +1,1047 @@
+[
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Tervetuloa Oikeaa asiaa -podcastin pariin, kello on...<|prosody:pause|> no aivan sama, totuus ei katso kelloa. Mä oon Matti Nieminen.",
+    "type": "statement",
+    "startMs": 2000
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Ja tää on se paikka mis sanotaa ääneen se, mitä valtamedia yrittää epätoivosesti lakaista maton alle.",
+    "type": "statement",
+    "startMs": 10883
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Tänään meillä on studiossa taas kova kattaus, alotetaa vaikka tosta...<|prosody:pause|> Janne Korhonen, tutkija ja Ideologian anatomia -blogin isäntä, tervetuloa.",
+    "type": "statement",
+    "startMs": 17740
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|emotion:contentment|>Kiitos, kiitos. Ja hei vaan kaikille kuuntelijoille.",
+    "type": "statement",
+    "startMs": 28754
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Mites siel Substackin puolella, onks...<|prosody:pause|> onks sensuuri vielä iskeny vai saatko sä ihan rauhassa purkaa näitä globaalien instituutioiden tekstejä?",
+    "type": "dialogue",
+    "startMs": 32171
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|prosody:expressive_low|>Ei oo viä tilit menny kii, mut kyl siin huomaa et...<|prosody:pause|> et heti ku alkaa vähänkään purkaa tätä vihreän siirtymän todellista agendaa, ni varjokiellot paukkuu.",
+    "type": "dialogue",
+    "startMs": 40386
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|emotion:surprise|>Oho, vai silleen.",
+    "type": "interjection",
+    "startMs": 47266
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|prosody:expressive_low|>Nii ja mult on kysytty et miks mä jaksan näit komission papereit kahlata, mut jos ei niit lue, ni ei voi ymmärtää tota koko koneistoa.",
+    "type": "followup",
+    "startMs": 48786
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Kyl, ja siks me tarvitaan sua tääl. Mut sit meillä on myös Santtu Koivisto, Suomen Kansallisen Heräämisen puheenjohtaja, morjensta.",
+    "type": "statement",
+    "startMs": 54842
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "<|emotion:contentment|>Terve Matti, ja terve Janne. Hienoo olla taas tääl.",
+    "type": "statement",
+    "startMs": 62899
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Kuinka siel kentällä, teil oli mun mielestä joku...<|prosody:pause|> joku uus kampanja tai kiertue täs hiljattain, vai muistanks mä ihan väärin?",
+    "type": "dialogue",
+    "startMs": 68146
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "<|prosody:expressive_low|>Joo, meil oli Lahden seudulla tämmönen... <|sfx:humming|>mmm..<|prosody:pause|> vähän niinku kansalaistapaamisten sarja, mis puhuttii ihan puhtaasti tästä suomalaisen väestöpohjan tulevaisuudesta.",
+    "type": "dialogue",
+    "startMs": 76610
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|prosody:expressive_low|>Aivan.",
+    "type": "interjection",
+    "startMs": 87690
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "<|prosody:expressive_high|>Ja kyl se vastaanotto siel toriteltalla on ollu ihan toista ku mitä nää gallupit antaa ymmärtää, kansa on oikeesti aika kyllästyny tähän nykymenoon.",
+    "type": "followup",
+    "startMs": 88170
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Sitä mä en kyl epäile hetkeekään. Mut mennääpä suoraan päivän aiheeseen, koska tää on... <|sfx:humming|>mmm..<|prosody:pause|> tää on ihan uskomaton farssi.",
+    "type": "statement",
+    "startMs": 97790
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Eli Yle uutisoi täs eilen, et Euroopan komissio on nyt sit antamassa periks näissä päästötavoitteissa, etelä- ja itä-Euroopan painostuksesta.",
+    "type": "statement",
+    "startMs": 106615
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|prosody:expressive_low|>Niinpä tietysti.",
+    "type": "interjection",
+    "startMs": 113695
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Ja samaan aikaan Hesari oikein vahingossa lipsautti, et Suomi voi menettää...<|prosody:pause|> siis satoja miljoonia euroja vuodessa päästökauppatuloja, koska komissio haluaa sosialisoida ne teollisuuden tukiin ja omiin budjetteihinsa.",
+    "type": "followup",
+    "startMs": 114335
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Janne, sä oot kahlannu näitä tekstejä, ni mikä täs on niinku se iso kuva?",
+    "type": "statement",
+    "startMs": 128136
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|prosody:expressive_low|>No täs täytyy nyt ihan ensimmäisenä erottaa kaks asiaa, eli se mitä sanotaa juhlapuheissa, ja se mitä siel... <|sfx:humming|>mmm..<|prosody:pause|> siel direktiivien ja asetusten liitteissä lukee.",
+    "type": "statement",
+    "startMs": 131648
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_low|>Nimenomaa.",
+    "type": "interjection",
+    "startMs": 140568
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|prosody:expressive_low|>Mä oon lukenu nää komission tuoreet linjaukset, ja siel on ihan suoraan sisäänkirjotettuna semmonen, voisko sanoo joustomekanismi, joka palkitsee ne maat...<|prosody:pause|> jotka ei oo tehny yhtään mitään.",
+    "type": "followup",
+    "startMs": 141128
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "<|prosody:expressive_low|>Just näin se menee.",
+    "type": "interjection",
+    "startMs": 150008
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|prosody:expressive_low|>Eli Suomihan on investoinu jo vuosikymmeniä tähän kaikkeen vähäpäästöseen...<|prosody:pause|> no, sanotaa nyt vaikka haihatteluun, ja me ollaan oltu se mallioppilas. Ja nyt ku Italia ja Puola sanoo et ei me pystytä, ni komissio sanoo et okei, löysätään teidän osalta.",
+    "type": "followup",
+    "startMs": 151288
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Ja sit me maksetaa se niiden löysäily, eiks se mee just näin!",
+    "type": "interruption",
+    "startMs": 164052
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|prosody:expressive_low|>Kyl.",
+    "type": "interjection",
+    "startMs": 166972
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Siis tää on se mikä vetää mut aivan hiljaseks, et meillä hallitus itkee jostain miljoonan leikkauksista, ja sit me lapioidaa satoja miljoonia sinne Brysseliin et ne voi...<|prosody:pause|> et ne voi tukee jotain espanjalaista teollisuutta.",
+    "type": "followup",
+    "startMs": 167212
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "<|prosody:expressive_low|>Mut tää on Matti just se ongelma, ku suomalainen poliittinen luokka uskoo siihen sääntöperustaseen maailmanjärjestykseen ku johonkin jumalaan.",
+    "type": "statement",
+    "startMs": 179387
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_low|>Jep.",
+    "type": "interjection",
+    "startMs": 188067
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "<|prosody:expressive_low|>Ku noita isoja maita, niinku nyt vaikka Ranskaa ja Espanjaa, niit kiinnostaa täs ainoastaan niiden oman kansallisen edun turvaaminen...<|prosody:pause|> ja se on mun mielestä ihan oikein, siis valtioiden pitääkin ajaa omaa etuaan.",
+    "type": "followup",
+    "startMs": 188467
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|prosody:expressive_low|>Mm-m.",
+    "type": "interjection",
+    "startMs": 200827
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "<|prosody:expressive_high|>Mut Suomi on ainoo, joka on siel luokassa viittaamassa et hei me tehtii nää läksyt, voidaanks me nyt maksaa vähän enemmän et saadaan hymytyttö-patsas siltä... <|sfx:humming|>mmm..<|prosody:pause|> von der Leyeniltä.",
+    "type": "followup",
+    "startMs": 201067
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|prosody:expressive_low|>Täs on vaan se ideologinen ulottuvuus myös mukana. Et ku puhutaa kulttuurimarxismista tai tästä... <|sfx:humming|>mmm..<|prosody:pause|> wokesta, ni tää taloudellinen kurittaminen on yks sen työkaluista.",
+    "type": "statement",
+    "startMs": 226635
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_low|>Aivan.",
+    "type": "interjection",
+    "startMs": 239275
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|prosody:expressive_low|>Eli sillä vihreällä siirtymällä oikeutetaa se, et otetaa kansallinen varallisuus pois, ja siirretää se ylikansallisen koneiston hallintaan. Se lukee ihan suoraan niiden strategiapapereissa.",
+    "type": "followup",
+    "startMs": 239675
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "<|prosody:expressive_low|>Mä oon osittain samaa mieltä tosta sun analyysistä, mut kyl siel taustalla on ihan puhdasta raakaa geopolitiikkaa.",
+    "type": "dialogue",
+    "startMs": 248886
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|prosody:expressive_low|>No totta kai on, mut se verhotaa tohon hyvesignalointiin.",
+    "type": "dialogue",
+    "startMs": 256827
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "<|prosody:expressive_low|>Nii verhotaa, mut Ranskan eliitti ei välitä pätkääkään mistään wokesta sillon ku kyse on heidän sähköntuotannosta ja pärjäämisestä.",
+    "type": "dialogue",
+    "startMs": 260304
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Hei tosta puhuen! Ootteks te lukenu tän päivän Uuden Suomen jutun?",
+    "type": "interruption",
+    "startMs": 267976
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "<|prosody:expressive_low|>Joo, mä katoin sen aamulla.",
+    "type": "interjection",
+    "startMs": 271336
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Siis tää on aivan mahtava. Koko EU paasaa siitä miten pitää irtautuu venäläisestä energiasta, tuetaa Ukrainaa ja niin edespäin.",
+    "type": "followup",
+    "startMs": 273216
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Ja sit siel on tilastot, et alkuvuonna nää samat EU-maat on ostanu... <|sfx:humming|>mmm..<|prosody:pause|> siis ihan ennätysmäärän venäläistä nesteytettyä maakaasua, LNG:tä.",
+    "type": "statement",
+    "startMs": 281298
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|prosody:expressive_low|>Mm.",
+    "type": "interjection",
+    "startMs": 291898
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Eli meillä Suomessa tuomitaa kaikki ketkä ees kattoo itään päin, ja sit Ranska, Belgia ja Espanja tankkaa sitä Putinin verikaasua ihan tyytyväisenä.",
+    "type": "followup",
+    "startMs": 292018
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "<|prosody:expressive_low|>Tää on just tää mitä mä tarkotin. Me pelataa näillä ideologisilla ja moraalisilla säännöillä.",
+    "type": "statement",
+    "startMs": 301315
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_low|>Niin.",
+    "type": "interjection",
+    "startMs": 306835
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "<|prosody:expressive_low|>Ja kuvitellaan et kaikki muutkin pelaa. Mut nää suuret eurooppalaiset valtiot, ne ymmärtää sen...<|prosody:pause|> sen kansainvälisen realismin. Ne ei anna oman kansansa jäätyä sen takia et joku moralisoi.",
+    "type": "followup",
+    "startMs": 307155
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|prosody:expressive_low|>Ehdottomasti.",
+    "type": "interjection",
+    "startMs": 319155
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "<|prosody:expressive_low|>Mut me suomalaiset, me tuhotaa meidän koko teollisuuden kilpailukyky tällä ylisääntelyllä, samalla ku ne käyttää halpaa venäläistä energiaa meitä vastaan siel markkinoilla.",
+    "type": "followup",
+    "startMs": 319795
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|prosody:expressive_low|>Ja tässä tulee taas tää...<|prosody:pause|> tää diskurssin kaksinaismoraali. Ku sä seuraat valtamediaa, vaikka just Yleä tai Hesaria, ni miten ne kehystää tän?",
+    "type": "statement",
+    "startMs": 330559
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_low|>Sanoppa muuta.",
+    "type": "interjection",
+    "startMs": 338079
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|prosody:expressive_low|>Ne ei ikinä kyseenalaista tota EU:n toiminnan ristiriitaa silleen fundamentaalisesti. Ne saattaa uutisoida siitä yksittäisenä juttuna, mut se narratiivi pysyy aina siinä et...<|prosody:pause|> et meidän täytyy nyt vaan kiristää omaa vyötä.",
+    "type": "followup",
+    "startMs": 338879
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_low|>Niin, se on aina semmonen et ikävää joo, mutta tää ilmastokriisi nyt vaan vaatii talkoita.",
+    "type": "dialogue",
+    "startMs": 350078
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|prosody:expressive_low|>Just näin. Talkoita joihin muut ei osallistu, mut me maksetaa se lasku. Ja tää on ihan suoraan sitä kriittisen teorian soveltamista globaalissa mittakaavassa.",
+    "type": "dialogue",
+    "startMs": 356206
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "<|prosody:expressive_low|>Sä näät ton tekstien kautta, mä nään sen puhtaasti suomalaisen identiteetin ja...<|prosody:pause|> ja itsenäisyyden hävittämisenä.",
+    "type": "dialogue",
+    "startMs": 363540
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|prosody:expressive_low|>Mm-m, nii se on sama lopputulos.",
+    "type": "interjection",
+    "startMs": 370700
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "<|prosody:expressive_low|>Se on täsmälleen sama lopputulos. Et ku me menetetää satoja miljoonia sinne...<|prosody:pause|> sinne yhteiseen kassaan, ni se on suoraan pois suomalaisten perheiden pärjäämisestä.",
+    "type": "followup",
+    "startMs": 372300
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Nii ja sit Orpo ja Purra seisoo siel rivissä selittämässä et me tarvitaan maahanmuuttoo paikkaamaan tätä kestävyysvajetta!",
+    "type": "statement",
+    "startMs": 383527
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|sfx:laughter|>Heh, no niinpä.",
+    "type": "interjection",
+    "startMs": 391047
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|emotion:fear|><|prosody:speed_fast|>Siis tää on se mikä saa mut ihan raivon partaalle. Eka me annetaa meidän rahat pois, sit me rikotaa meidän energiantuotanto... ja sit tuodaan jengiä jostain Lähi-idästä tänne pelastaan meidän talous.",
+    "type": "followup",
+    "startMs": 391727
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "<|prosody:expressive_low|>Ja se on se suuri valhe, johon perussuomalaisetkin on nyt hallituksessa täysin sitoutunu. Ne on hyväksyny sen premissin et...<|prosody:pause|> et suomalainen kansa on joku resurssi, jota voi vaan korvata ulkopuolelta ku luvut näyttää miinusta.",
+    "type": "statement",
+    "startMs": 402883
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_low|>Kyl.",
+    "type": "interjection",
+    "startMs": 416203
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "<|prosody:expressive_low|>Etninen koheesio, se et me ollaan suomalaisia Suomessa, se on muka joku... <|sfx:humming|>mmm..<|prosody:pause|> joku luksustuote, mihin meillä ei oo enää varaa tän vihreän siirtymän ja talouskriisin takia.",
+    "type": "followup",
+    "startMs": 416683
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|prosody:expressive_low|>Tossa on ihan selvä looginen jatkumo sille...<|prosody:pause|> mitä nää intersektionaaliset feministit on yliopistoilla hokenu jo kymmenen vuotta.",
+    "type": "statement",
+    "startMs": 429234
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Avaa vähän.",
+    "type": "interjection",
+    "startMs": 435954
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|prosody:expressive_low|>No siis se ajatus siitä, et kansallisvaltiot on itsessään... <|sfx:humming|>mmm..<|prosody:pause|> sortavia rakenteita, ja siks niitä pitäis purkaa sekä ylhäältä päin, eli EU:n taholta...",
+    "type": "followup",
+    "startMs": 436714
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "<|prosody:expressive_low|>Joo.",
+    "type": "interjection",
+    "startMs": 445074
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|prosody:expressive_low|>Etkä myös alhaalta päin, eli tuomalla massoittain ihmisiä, jotka ei jaa sitä kulttuurista perimää.",
+    "type": "followup",
+    "startMs": 445634
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "<|prosody:expressive_low|>Mä muistan kun mä olin noissa perussuomalaisten kokouksissa vielä pari vuotta sitten, ni siel aina jaksettii toistella et me ollaan isänmaan asialla.",
+    "type": "statement",
+    "startMs": 450136
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_low|>Mm.",
+    "type": "interjection",
+    "startMs": 457496
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "<|prosody:expressive_low|>Mut heti ku se valta häämötti, ni se kansallinen linja heitettii roskiin...<|prosody:pause|> ja nyt ne on siel leimaamassa komission papereita iha mukisematta, ihan vaan et saa pitää ne omat salkut.",
+    "type": "followup",
+    "startMs": 457576
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Kyl se on just tollasta. Mä katoin eilen sitä, oiskohan ollu eilen...<|prosody:pause|> joo kun Ylellä oli se joku asiantuntija, joku Greenpeacen tyyppi selittämässä tätä.",
+    "type": "statement",
+    "startMs": 469271
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|emotion:contemplation|><|sfx:sigh|>Voi luoja.",
+    "type": "interjection",
+    "startMs": 479031
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Siel tää tyyppi istuu ihan pokkana ja selittää et Suomi on nyt edelläkävijä, ja et tää on meille valtava mahdollisuus.",
+    "type": "followup",
+    "startMs": 480111
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|emotion:confusion|><|prosody:speed_fast|>Siis mikä vitun mahdollisuus se on et meidän rahat viedään?",
+    "type": "statement",
+    "startMs": 487481
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|prosody:expressive_low|>Se on sille asiantuntijalle mahdollisuus saada lisää apurahoja ja projektirahaa komissiolta.",
+    "type": "dialogue",
+    "startMs": 490601
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "<|prosody:expressive_low|>Just näin, se palvelee tota täysin irtikytkettyä eliittiä.",
+    "type": "dialogue",
+    "startMs": 494775
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|prosody:expressive_low|>Ne on luonu tämmösen suljetun ekosysteemin, missä sä saat statusta ja rahaa sillä, et sä edistät kansallisen edun tuhoamista.",
+    "type": "dialogue",
+    "startMs": 499240
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Tää on ihan niinku siinä...<|prosody:pause|> muistatteks ku korona-aikana mä sanoin et tää on vaan alkua tän kontrollin suhteen?",
+    "type": "interruption",
+    "startMs": 504840
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|prosody:expressive_low|>Kyl, sä olit siinä oikeessa.",
+    "type": "interjection",
+    "startMs": 513120
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Niin, sillo jengi nauro ja sano salaliittoteoreetikoks, mut nyt ku ne vie meidän teollisuuden rahat ja päästökauppatulot suoraan EU:lle jollain ilmasto-oikeudenmukaisuuden tekosyyllä, ni eihän tää eroo siitä mitenkään.",
+    "type": "followup",
+    "startMs": 514360
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "<|prosody:expressive_low|>Ei erookaan. Ja se ratkasu ei tuu sieltä eduskunnasta, ei ainakaan nykysiltä puolueilta. Sen takia me tehää ruohonjuuritason työtä.",
+    "type": "statement",
+    "startMs": 527352
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_low|>Mm-m.",
+    "type": "interjection",
+    "startMs": 536152
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "<|prosody:expressive_low|>Kun ihmiset alkaa konkreettisesti nähdä omien sähkölaskujensa ja ostovoimansa kautta, mihin tää johtaa, ni se herääminen on sit...<|prosody:pause|> se on vääjäämätöntä.",
+    "type": "followup",
+    "startMs": 536352
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|prosody:expressive_low|>Ja pakko sanoo tähän loppuun mun mielestä se tärkein pointti...<|prosody:pause|> eli lukekaa niitä dokumentteja. Ne ei edes piilottele tätä. Se lukee niissä valkoisissa kirjoissa ja komission ohjelmissa.",
+    "type": "statement",
+    "startMs": 547608
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_low|>Aivan.",
+    "type": "interjection",
+    "startMs": 556448
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|prosody:expressive_low|>Koko varallisuuden uusjako on siel ihan mustaa valkosella.",
+    "type": "followup",
+    "startMs": 557088
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Tää on just se miks me tehään tätä. Valtamedia kyllä uutisoi sen yksittäisen summan mitä me menetetää, mut se yhdistävä lanka, se jätetää aina kertomatta.",
+    "type": "statement",
+    "startMs": 559946
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Mut eiköhän tässä ollu tälle kerralle tarpeeks sulateltavaa. Suomi on siis myyty, taas kerran, ja me maksetaa se lysti.",
+    "type": "statement",
+    "startMs": 570330
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Suurkiitos Janne Korhonen ja Santtu Koivisto kun pääsitte paikalle avaamaan tätä kuviota.",
+    "type": "statement",
+    "startMs": 578397
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|emotion:contentment|>Kiitos, oli ilo olla tääl.",
+    "type": "statement",
+    "startMs": 583869
+  },
+  {
+    "speaker": {
+      "id": "santtu-koivisto",
+      "name": "Santtu Koivisto",
+      "type": "guest",
+      "avatar": "avatar-2.png"
+    },
+    "line": "<|emotion:pride|>Kiitos Matti, ja jatketaan taistelua.",
+    "type": "statement",
+    "startMs": 585501
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Tehää näin. Ja te kaikki kuulijat siel ruutujen ja luurien päässä, pistäkää sana kiertämään ja tukekaa vapaata mediaa.",
+    "type": "statement",
+    "startMs": 588382
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Oikeaa asiaa on takasin eetterissä taas ens viikolla.",
+    "type": "statement",
+    "startMs": 596616
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Pitäkää silmät auki. Se on moro.",
+    "type": "statement",
+    "startMs": 600282
+  }
+]

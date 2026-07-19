@@ -1,0 +1,1102 @@
+[
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|emotion:contentment|>Tervetuloa taas Oikeaa asiaa -podcastin pariin.",
+    "type": "statement",
+    "startMs": 2000
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Mä oon Matti Nieminen, ja tää on se paikka missä...<|prosody:pause|> oota nyt, miten mä sen aina sanon, se paikka mis totuus tulee esiin ja mis ei pelätä puhua asioista oikeilla nimillä.",
+    "type": "statement",
+    "startMs": 6109
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|emotion:pride|>Meil on tänään ihan huikee kattaus asiantuntemusta. Ekana tääl on meidän ääni siel arjen keskeltä, Kankaanpään oma Ringa Turunen.",
+    "type": "statement",
+    "startMs": 17781
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|prosody:expressive_high|>No hei vaan Matti, ja terve kaikille sinne ruutujen ja kuulokkeiden ääreen.",
+    "type": "dialogue",
+    "startMs": 25813
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Mitenkäs siel Satakunnassa, onks pidetty suvakit ruodussa?",
+    "type": "dialogue",
+    "startMs": 31033
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|emotion:contemplation|>No yritetty on, mut kyl täs vähän meinaa sellanen...<|prosody:pause|> sellanen epätoivo iskee, ku kattoo mitä täällä oikeesti tapahtuu.",
+    "type": "dialogue",
+    "startMs": 35034
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Joo uskon ton, se on jatkuvaa taistelua.",
+    "type": "dialogue",
+    "startMs": 43605
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Sit tääl on myös meidän oma tutkija, tai siis analyytikko Janne Korhonen, morjensta.",
+    "type": "statement",
+    "startMs": 46674
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "Päivää Matti, ja kiitos jälleen kutsusta.",
+    "type": "dialogue",
+    "startMs": 52811
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Sä oot vissii purkanu noita vasemmiston tekstejä taas oikeen urakalla yömyöhään?",
+    "type": "dialogue",
+    "startMs": 54912
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|prosody:expressive_low|>Minä olen kieltämättä viettänyt useita iltoja perehtyen viimeaikaisiin poliittisiin julistuksiin. Niiden diskursiivinen tyhjyys on suorastaan fasinoivaa.",
+    "type": "dialogue",
+    "startMs": 59697
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|sfx:laughter|>Heh, eli perusmeininki jatkuu.",
+    "type": "dialogue",
+    "startMs": 67390
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:speed_fast|>Mut mennää päivän aiheeseen, eli tähän käsittämättömään talouden paniikkiin. SDP on ihan paniikissa gallupeista, ja Antti Lindtman jankkaa jostain eläkkeiden turvaamisesta.",
+    "type": "statement",
+    "startMs": 70450
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Just näin.",
+    "type": "interjection",
+    "startMs": 81890
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ja samaan aikaan sit tää liittokenttä on täysin sekasin, valtakunnansovittelija Anu Sajavaara joutu sanoo et nää ay-pomot ymmärtää asioita ihan tahallaan väärin.",
+    "type": "followup",
+    "startMs": 82610
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|emotion:surprise|>Mun on ihan pakko keskeyttää ja sanoa tähän väliin, et toi on nii totta!",
+    "type": "interruption",
+    "startMs": 93253
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Nii.",
+    "type": "interjection",
+    "startMs": 97133
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Mä luin siit eilen, oliko se ny Iltalehdestä, et se joku AKT:n...<|prosody:pause|> kuka hitto se oli, Kokko? Se rupes ihan suoraan haukkumaan sitä sovittelijaa.",
+    "type": "followup",
+    "startMs": 97573
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Nimenomaa.",
+    "type": "interjection",
+    "startMs": 107733
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|prosody:expressive_high|>Siis miettikää, tääl on lapsiperheillä ihan oikeesti hätä, leipäjonot kasvaa kovaa vauhtia, ja nää ukot pelaa jotain omaa valtapeliään! Se on...<|prosody:pause|> ei jumalauta, mä en meinaa ees löytää sanoja tälle vihalle.",
+    "type": "followup",
+    "startMs": 108493
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "Sinänsä Ringan huomio on erittäin validi. Mutta tässä täytyy ymmärtää se laajempi, institutionaalinen viitekehys. Ammattiyhdistysliike on Suomessa pitkälti saavuttanut lakisääteisen aseman, jota se nyt käyttää suojellakseen paitsi omia jäseniään, myös koko sosiaalidemokraattista hegemoniaa.",
+    "type": "statement",
+    "startMs": 122462
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Mm-m nii.",
+    "type": "interjection",
+    "startMs": 137862
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "Kun valtakunnansovittelija kritisoi neuvottelukulttuuria, hän itse asiassa viittaa siihen, että vasemmisto on siirtynyt ratkaisukeskeisyydestä puhtaaseen vastakkainasetteluun. He eivät pyri kompromissiin, koska kompromissi tarkoittaisi heidän ideologisen ylivaltansa murenemista.",
+    "type": "followup",
+    "startMs": 138782
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Nii just tottakai! Eli ne pitää ihan kynsin ja hampain kii siit vallasta, vaik koko laiva ois uppoomassa?",
+    "type": "dialogue",
+    "startMs": 153813
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "Täsmälleen. Se on heidän ainoa strategiansa.",
+    "type": "dialogue",
+    "startMs": 159316
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Ja me maksetaan se lasku!",
+    "type": "dialogue",
+    "startMs": 161978
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Niinpä.",
+    "type": "dialogue",
+    "startMs": 163756
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ja sitte tullaan tähän toiseen aivan absurdin tason juttuun. Mä en tiiä ootteks te lukenu, mut Savon Sanomien pääkirjoituksessa oli täst valtiovarainministeriön tuoreesta aivopierusta.",
+    "type": "statement",
+    "startMs": 165024
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Eikä.",
+    "type": "interjection",
+    "startMs": 175264
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Nii, siel haaveillaan jostain...<|prosody:pause|> oota, mä katon tän luvun... kahdenkymmenen prosentin tuottavuusloikasta tekoälyn avulla!",
+    "type": "followup",
+    "startMs": 175744
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Ei oo todellista!",
+    "type": "dialogue",
+    "startMs": 183638
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "On! Ja siel joku professori Teemu Roos suoraan sano et tää on ihan täyttä utopiaa, ihan epärealistista.",
+    "type": "dialogue",
+    "startMs": 185095
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "Professori Roosin kritiikki osuu täysin oikeaan.",
+    "type": "dialogue",
+    "startMs": 191285
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|prosody:speed_slow|>Valtiovarainministeriön laskelmat eivät perustu mihinkään empiiriseen dataan, vaan ne ovat puhtaasti poliittista toiveajattelua. Tämä on moderni vastine sille, kun Neuvostoliitossa julistettiin viisivuotissuunnitelmien ylittyneen maagisesti.",
+    "type": "statement",
+    "startMs": 194130
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|sfx:laughter|>Heh, totta.",
+    "type": "interjection",
+    "startMs": 206770
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "He kuvittelevat, tai ainakin esittävät kuvittelevansa, että digitaalinen työkalu paikkaa sen valtavan kestävyysvajeen, joka on seurausta täysin epäonnistuneesta maahanmuutto- ja sosiaalipolitiikasta.",
+    "type": "followup",
+    "startMs": 208330
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Nii ja sit samaan aikaan joku Kela, ihan oikeesti tämmönen virasto mikä pyörittää ihmisten tukia, ni ne suunnittelee et ne antaa potkut tuhannelle työntekijälle tän takia!",
+    "type": "statement",
+    "startMs": 218129
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Nii joo tää oli tää yks juttu.",
+    "type": "interjection",
+    "startMs": 227889
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Mä tunnen ihan henkilökohtasesti ihmisiä tuol meidän suunnalla jotka tappelee jo nyt Kelan paperisodan kanssa. Ja sit ne meinaa et joku...<|prosody:pause|> joku tekoäly alkaa tekee niitä päätöksiä!",
+    "type": "followup",
+    "startMs": 229129
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Jep.",
+    "type": "interjection",
+    "startMs": 239569
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|prosody:expressive_high|>Siis tässä vaan halutaan säästää niistä ihmisistä, jotta saadaan laittaa lisää miljoonia sinne kaikkialle muualle, niinku näitten heidän omien suojattien elättämiseen!",
+    "type": "followup",
+    "startMs": 240289
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Tää on just tää kuvio. Ku sä katot valtamediaa, ni ne ihan innoissaan toistaa näitä valtiovarainministeriön tiedotteita semmosenaan.",
+    "type": "statement",
+    "startMs": 250239
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "Aivan.",
+    "type": "interjection",
+    "startMs": 257079
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Eikä kukaan siel uskalla kysyä ääneen sitäkään, et EVA:n Haavisto sano vasta et Suomes on viivytelty näit rakenteellisia uudistuksia ihan järkyttävän pitkään.",
+    "type": "followup",
+    "startMs": 257399
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "Ruotsi teki omat kipeät ratkaisunsa jo 1990-luvun kriisin jälkimainingeissa. Meillä sen sijaan valtaa pitävä diskurssi, jota minä usein nimitän kulttuurimarxilaiseksi sateenvarjoksi, estää kaiken rationaalisen keskustelun.",
+    "type": "statement",
+    "startMs": 267439
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Nimenomaa.",
+    "type": "interjection",
+    "startMs": 278799
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "Heti kun mainitset leikkaukset eläkkeistä tai julkisesta sektorista, alkaa välitön moraalinen tuomitseminen.",
+    "type": "followup",
+    "startMs": 279399
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Ja heti lentää rasistikortti tai sit joku muu haukkumasana!",
+    "type": "dialogue",
+    "startMs": 284991
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "Kyllä, he käyttävät moralismia aseena välttääkseen taloudelliset tosiasiat.",
+    "type": "dialogue",
+    "startMs": 289288
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ja tää on ihan...<|prosody:pause|> siis tää on se syy miks SDP on gallupeissa nyt paniikissa. Lindtman vakuuttelee siel eläkeläisille ettei hätää.",
+    "type": "statement",
+    "startMs": 293816
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Mm.",
+    "type": "interjection",
+    "startMs": 302256
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Mut ku kaikki näkee et rahat on loppu. Siis ihan oikeesti loppu.",
+    "type": "followup",
+    "startMs": 302656
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "No mut siis täähän on just se, mitä mä oon sanonu siel mun blogissa sata kertaa. Eliitti yrittää vaan pitää kulissit pystyssä.",
+    "type": "statement",
+    "startMs": 306576
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Kyl.",
+    "type": "interjection",
+    "startMs": 314016
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Mä olin siel yks päivä kaupassa ja juttelin yhen toisen äidin kaa, ni hänkin oli ihan et miten tästä selvitään ku sähkölaskut paukkuu ja ruoka on kallista.",
+    "type": "followup",
+    "startMs": 314496
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Totta kai.",
+    "type": "interjection",
+    "startMs": 324256
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Ja sit avaat telkkarin ni siel joku vitun...<|prosody:pause|> sori ny vahva kieli, mut joku pukumies selittää hymyillen tekoälystä! Se on silkkaa vittuilua tavalliselle kansalle!",
+    "type": "followup",
+    "startMs": 324896
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Onks se ihme et jengi katkeroituu?",
+    "type": "dialogue",
+    "startMs": 335103
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "No ei todellakaan oo! Must tuntuu et mäkin siel valtuustossa hakkaan päätä seinään joka viikko.",
+    "type": "dialogue",
+    "startMs": 337086
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "Tämä on klassinen esimerkki vieraantumisesta. Eliitti asuu omissa kuplissaan, missä maahanmuuton tai talouden realiteetit eivät heitä kosketa. Minä olen tutkinut näiden instituutioiden henkilöstörakennetta.",
+    "type": "statement",
+    "startMs": 343813
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Mm-m.",
+    "type": "interjection",
+    "startMs": 354053
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "Ja on mielenkiintoista huomata, kuinka vahvasti sama akateeminen ja ideologisesti ehdollistettu joukko kiertää virastosta toiseen. Aivan kuten ammattiyhdistysliikkeessä.",
+    "type": "followup",
+    "startMs": 354253
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|style:shouting|>Ja sit ne on viel kaikki jotain saatanan vihreitä tai demareita!",
+    "type": "interruption",
+    "startMs": 362870
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "Tilastollisesti kyllä. Se on järjestelmä, joka palkitsee oikeaoppisuudesta eikä suinkaan kyvykkyydestä tai todellisesta asiantuntemuksesta.",
+    "type": "statement",
+    "startMs": 366857
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|emotion:contemplation|>Tää menee kyl nii syvälle ytimeen. Mä muistan...<|prosody:pause|> siis sillo ku mä olin vielä mukana siin vihreiden toiminnas siel Helsingissä, ni se oli ihan arkea.",
+    "type": "statement",
+    "startMs": 373771
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "Ahaa.",
+    "type": "interjection",
+    "startMs": 381731
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Siis täysin arkipäivää. Jos joku esitti jonku taloudellisen huolen jostain hankkeesta, ni hänet naurettiin ulos.",
+    "type": "followup",
+    "startMs": 382091
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Ei ikinä!",
+    "type": "interjection",
+    "startMs": 389251
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Joo, ja siks mä oon täl mun matkalla niinku...<|prosody:pause|> täl toipumismatkalla, huomannu miten sairas se valtarakennelma oikeesti on.",
+    "type": "followup",
+    "startMs": 390091
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "Sinun kokemuksesi korreloi täysin sen kanssa, mitä kriittinen tutkimus paljastaa näistä ryhmistä. He vaativat täydellistä ideologista konformismia.",
+    "type": "statement",
+    "startMs": 397749
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Nii.",
+    "type": "interjection",
+    "startMs": 404829
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "Jos et hyväksy heidän näkemystään vaikkapa siitä, että ilmasto tai sukupuolikäsitysten muuttaminen on tärkeämpää kuin valtiontalouden tasapaino, sinut eristetään.",
+    "type": "followup",
+    "startMs": 405389
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Ja sit sut leimataan hulluks salaliittoteoreetikoks!",
+    "type": "dialogue",
+    "startMs": 414014
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "Täsmälleen. Se on varotoimenpide, jolla he suojelevat omaa hegemoniaansa.",
+    "type": "dialogue",
+    "startMs": 417902
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ja tähän valheeseen uppoaa sit nää median toistamat asiat, niinku tää Verkkouutistenkin juttu osoittaa.",
+    "type": "dialogue",
+    "startMs": 421897
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Nii! Ja musta on ihan naurettavaa, et me esitetään et tää olis jotenkin vahinko. Ei se oo.",
+    "type": "statement",
+    "startMs": 428684
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Mm-m.",
+    "type": "interjection",
+    "startMs": 434004
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|emotion:fear|>Tää on täysin tarkotuksellista. Ne haluaa tuhota ydinperheen, ne haluaa tuhota suomalaisuuden, ihan siks et meitä on helpompi hallita sillon ku me ollaan heikkoja.",
+    "type": "followup",
+    "startMs": 434644
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|prosody:speed_slow|>Minä en ehkä käyttäisi sanaa tahallinen tuhoaminen, mutta on kiistatonta, että heidän politiikkansa looginen lopputulema on kansallisvaltion ja sen perinteisten rakenteiden heikkeneminen.",
+    "type": "statement",
+    "startMs": 445457
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Aivan.",
+    "type": "interjection",
+    "startMs": 454617
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "Se on sisäänrakennettu siihen postmoderniin ideologiaan, jota he ajavat.",
+    "type": "followup",
+    "startMs": 455097
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "No mut se on ihan sama asia kummiskin!",
+    "type": "dialogue",
+    "startMs": 458778
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "Päämäärän kannalta kyllä.",
+    "type": "dialogue",
+    "startMs": 461462
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Joo, täs on semmonen...<|prosody:pause|> semmonen pieni vivahde-ero mut lopputulos on sama. Ja tää näkyy just täs AKT:n ja Sajavaaran keississäki.",
+    "type": "statement",
+    "startMs": 463355
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Nii.",
+    "type": "interjection",
+    "startMs": 472315
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Liitot ei enää pelasta duunaria, vaan ne pelastaa sitä vasemmistolaista maailmankuvaa, makso mitä makso.",
+    "type": "followup",
+    "startMs": 472875
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "Olet täysin oikeassa. Ammattiyhdistysliike on irronnut alkuperäisestä tarkoituksestaan.",
+    "type": "dialogue",
+    "startMs": 479514
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ja kansa todellaki alkaa huomata tän! Eiks ookki, Ringa?",
+    "type": "dialogue",
+    "startMs": 484628
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "<|emotion:pride|>Todellaki alkaa! Mun ryhmässäki Facebookissa on jo kolkyt tuhatta äitiä jotka on saanu tarpeekseen tästä pelleilystä.",
+    "type": "dialogue",
+    "startMs": 488657
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Se on muuten kova luku.",
+    "type": "dialogue",
+    "startMs": 496128
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|prosody:speed_slow|>Se osoittaa, että ruohonjuuritasolla on aitoa vastarintaa tätä ylätason hegemoniaa vastaan...",
+    "type": "statement",
+    "startMs": 497663
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Nimenomaa!",
+    "type": "interjection",
+    "startMs": 502143
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "...mutta on selvää, että valtamedia yrittää sen vaientaa loppuun asti.",
+    "type": "followup",
+    "startMs": 502863
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Just näin. Kuulijat kyllä tajuu kun nää palaset asettuu kohdilleen. Mut hei, kello alkaa taas näyttää siltä et meidän on pakko ruveta vetää tätä nippuun.",
+    "type": "statement",
+    "startMs": 505949
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Mm-m.",
+    "type": "interjection",
+    "startMs": 513829
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|emotion:affection|>Tää talouden alasajo ja tää...<|prosody:pause|> tää utopioihin turvautuminen on vaan yks oire täst suuremmasta taudista. Mut onneks meillä on teidän kaltasia ihmisiä jotka uskaltaa kaivaa näitä esiin. Iso kiitos Ringa kun pääsit mukaan.",
+    "type": "followup",
+    "startMs": 514309
+  },
+  {
+    "speaker": {
+      "id": "ringa-turunen",
+      "name": "Ringa Turunen",
+      "type": "guest",
+      "avatar": "avatar-3.png"
+    },
+    "line": "Kiitos itelles Matti, ja voimia sinne rintamalle kaikille.",
+    "type": "dialogue",
+    "startMs": 529347
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ja Janne, kiitos taas kerran erittäin syväluotaavasta analyysistä.",
+    "type": "dialogue",
+    "startMs": 533228
+  },
+  {
+    "speaker": {
+      "id": "janne-korhonen",
+      "name": "Janne Korhonen",
+      "type": "guest",
+      "avatar": "avatar-7.png"
+    },
+    "line": "<|emotion:contentment|>Kiitos. Oli ilo vierailla.",
+    "type": "dialogue",
+    "startMs": 537248
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Tää oli Oikeaa asiaa. Laittakaa jakoon ja muistakaa...<|prosody:long_pause|> totuus tulee esiin. Ensi viikkoon!",
+    "type": "statement",
+    "startMs": 539128
+  }
+]

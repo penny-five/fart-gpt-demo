@@ -1,0 +1,1069 @@
+[
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Tervetuloa taas Oikeaa asiaa -podcastin pariin. <|prosody:pause|>Mä oon Matti Nieminen ja tääl meillä totuus tulee esiin, vaik valtamedia kuinka yrittäis piilotella.",
+    "type": "statement",
+    "startMs": 2000
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:speed_fast|>Tänään on... <|sfx:humming|>mmm..<|prosody:pause|> sanotaaks et aika kuuma aihe pöydällä, meinaan tää meidän pääministerin touhu. <|prosody:speed_slow|>Mut hei, otetaan eka vieraat sisään. <|prosody:pause|>Eli linjoilla on mukana tuttuun tapaan dosentti, vapaa tutkija Harri Auvinen. Tervetuloa takas Harri.",
+    "type": "statement",
+    "startMs": 11650
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|emotion:contentment|>Kiitos Matti. On aina ilo olla täällä keskustelemassa asioista niiden oikeilla nimillä.",
+    "type": "statement",
+    "startMs": 27578
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Mites tota, sä olit vissii taas kirjoitellu Substackiin jotain? <|prosody:pause|>Siel oli vissii aika kovat lukemat, eiks ollu joku parisataa tonnia rikki?",
+    "type": "dialogue",
+    "startMs": 32446
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:speed_slow|>Pitää paikkansa. Se 'Miksi Trump on oikeassa' -esseeni kerää edelleen yleisöä. <|prosody:pause|>Se kertoo siitä... <|sfx:humming|>mmm...<|prosody:pause|> valtavasta patoutuneesta tarpeesta ymmärtää amerikkalaista konservatismia ilman tätä suomalaisen valtamedian suodinta.",
+    "type": "dialogue",
+    "startMs": 40426
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Nimenomaa.",
+    "type": "interjection",
+    "startMs": 55666
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:expressive_high|>Ja minä olen huomannut, että varsinkin nuorempi polvi alkaa vähitellen herätä tähän rakenteelliseen vinoumaan, joka meidän ideologiakoneistossa jyllää.",
+    "type": "followup",
+    "startMs": 56306
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:speed_fast|>Kyl, kyl. Tätä samaa mä oon iteki nähny. <|prosody:pause|>Mut joo, mennääs päivän aiheeseen, koska tää on ihan... <|prosody:pause|>suoraan sanottuna sairasta.",
+    "type": "dialogue",
+    "startMs": 64324
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Eli Petteri Orpo. <|prosody:pause|>Meidän niin sanotusti oikeistolainen pääministeri on nyt aika syväl siin itessään. <|prosody:pause|>Iltalehti ja Aamulehti uutisoi, et oikeuskansleri Janne Salminen on laittanu pari aika järeää selvityspyyntöä vetämään. Ja nää koskee Garden Helsinki -areenaa ja Valmet Automotiven pelastusoperaatiota. <|prosody:pause|>Ja kas kummaa, molemmis on taustalla tää kokoomuksen suurrahoittaja Ilpo Kokkila.",
+    "type": "statement",
+    "startMs": 72747
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Aivan.",
+    "type": "interjection",
+    "startMs": 97787
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:speed_fast|>Ja niinku Demokraatti kirjoitti, nii valtio, eli siis me veronmaksajat, työnnettii kymmeniä miljoonia näihin kohteisiin, jotta Kokkilan sijoitusyhtiö ei ottais osumaa.",
+    "type": "followup",
+    "startMs": 98587
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|emotion:surprise|><|prosody:expressive_high|>Ja sit kaiken huipuks, ku täst pitää nyt järjestää joku ylimääräinen täysistunto ja luottamusäänestys, ni Ilta-Sanomat paljasti et näit kansanedustajia lennätetään jostain lomamatkoiltaan takas eduskuntaan... <|prosody:pause|>tuhansilla euroilla per nuppi! <|prosody:speed_fast|>Meidän piikkiin! <|prosody:pause|>Siis miltä tää näyttää, Harri, sieltä sun akateemisesta vinkkelistä?",
+    "type": "statement",
+    "startMs": 109040
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:speed_slow|>Tässä täytyy heti erottaa kaksi asiaa. <|prosody:pause|>Ensimmäinen on tämä ilmeinen, pinnallinen korruptioepäily. Mutta se syvempi taso on se, miten moderni poliittinen eliitti toimii. <|prosody:pause|>Minä olen tutkinut tätä pitkään, ja varsinkin Yhdysvalloissa Heritage Foundation on analysoinut tätä niin sanotun syvän valtion tai hallinnollisen valtion risteämistä suurpääoman kanssa.",
+    "type": "statement",
+    "startMs": 128586
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Mm-m.",
+    "type": "interjection",
+    "startMs": 151466
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:expressive_high|>Petteri Orpo ja Kokoomus edustavat juuri tätä. He eivät ole konservatiiveja. <|prosody:pause|>He ovat globaalin managerialistisen luokan edustajia Suomessa, ja heille valtio on olemassa vain heidän oman sisäpiirinsä ja rahoittajiensa tappioiden sosiaalisoimiseksi.",
+    "type": "followup",
+    "startMs": 151626
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|style:shouting|>Just tää! <|prosody:pause|>Tää on ihan... ei jumalauta, mä oon sanonu tätä vuosia. <|prosody:pause|>Kokoomus ei oo mikään oikeistopuolue. Se on pelkkä valtion rahakirstun avain noille suhmuroijille.",
+    "type": "dialogue",
+    "startMs": 166666
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:speed_slow|>Täsmälleen. Ja kun katsomme tätä Valmet Automotiven tapausta... <|prosody:pause|>valtio siis pelastaa autotehtaan. Mutta kuka hyötyy? <|prosody:pause|>Ilpo Kokkila, joka on keskeinen vaalirahoittaja. Tämä on klassista kronykapitalismia. <|prosody:pause|>Ja samalla tämä sama eliitti saarnaa tavalliselle suomalaiselle jostain vihreästä siirtymästä ja vyönkiristämisestä.",
+    "type": "dialogue",
+    "startMs": 177701
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:speed_fast|>Ja sit heitetään se... <|prosody:pause|>oota, se heitetään iha suoraan kansan silmille tollee et lennätetään joku... <|prosody:pause|>joku rivikansanedustaja jostain Kanarialta veronmaksajien rahoilla painamaan nappia!",
+    "type": "interruption",
+    "startMs": 198286
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:speed_slow|>Minusta se luksuslento-aspekti on hyvin symbolinen. <|prosody:pause|>Se osoittaa sen täydellisen arroganssin, jolla poliittinen luokka suhtautuu veronmaksajiin. <|prosody:pause|>He eivät näe sitä edes ongelmana. Heidän mielestään heillä on oikeus siihen.",
+    "type": "dialogue",
+    "startMs": 211692
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:speed_slow|>Niin, koska ne elää siel jossain ihan omassa kuplassaan! <|prosody:pause|>Mä muistan sillon kun mä olin ite siel... <|prosody:pause|>siel ATK-tuessa pyörimässä siel Helsingin ytimessä, ni näki näitä tyyppejä. Ne on ihan niinku irrallaan todellisuudesta. <|prosody:pause|>Ja sit ku mä jäin sillo 2020 koronalomautukselle, ni mul alko niinku silmät avautua tälle kaikelle. <|prosody:pause|>Et ei näitä tyyppejä oikeesti kiinnosta suomalaisten pärjääminen pätkääkään.",
+    "type": "statement",
+    "startMs": 225682
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Ei todellakaan.",
+    "type": "interjection",
+    "startMs": 247922
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ne on siel vaan jakamassa meidän rahat omille kavereilleen.",
+    "type": "followup",
+    "startMs": 248802
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:speed_slow|>Se on juuri näin. Ja otetaanpa vertailukohta. <|prosody:pause|>Jos joku kansallismielinen poliitikko... sanotaan nyt vaikka joku perussuomalaisten edustaja, olisi jäänyt kiinni siitä, että hän on ohjannut kymmeniä miljoonia omalle vaalirahoittajalleen. <|prosody:pause|>Mitä valtamedia tekisi?",
+    "type": "statement",
+    "startMs": 251435
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:speed_fast|>Ne ristiinnaulitsis sen Hesarissa heti!",
+    "type": "interjection",
+    "startMs": 267395
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:speed_slow|>Aivan. Meillä olisi Ylen A-studiossa viikkojen mittainen erikoislähetysten sarja demokratian kriisistä. <|prosody:pause|>Mutta kun kyseessä on Orpo ja kokoomus, Yleisradio ja Helsingin Sanomat käsittelevät tätä lähinnä... <|sfx:humming|>mmm...<|prosody:pause|> hallinnollisena kömmähdyksenä. He eivät käytä sanaa korruptio.",
+    "type": "followup",
+    "startMs": 269315
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Ei, tietenkään. Koska ne on samaa jengiä! <|prosody:pause|>Ne käy samois bileissä ja niil on samat intressit. <|prosody:pause|>Mut eiks oo niinku sairasta, et valtamedia yrittää nytki... <|prosody:pause|>mä luin tänä aamuna Hesaria, ni siel yritettii kääntää tää jotenki silleen, et täs on vaan kyse teknisestä esteellisyydestä.",
+    "type": "dialogue",
+    "startMs": 287462
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:speed_slow|>Se on heidän tapansa neutraloida skandaali. <|prosody:pause|>Minä kutsuisin tätä diskursiiviseksi suojamuuriksi. Yliopistomaailmassa... tai siis, kuten minä sitä nykyään nimitän, ideologiakoneistossa, käytetään aivan samaa taktiikkaa.",
+    "type": "dialogue",
+    "startMs": 304666
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Nii.",
+    "type": "interjection",
+    "startMs": 319666
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:speed_slow|>Kun he haluavat tuhota jonkun, kuten he tekivät minulle Oulun yliopistossa vuonna 2022, he keksivät jonkin hallinnollisen verukkeen, jolla ideologinen puhdistus oikeutetaan. <|prosody:pause|>Mutta kun heidän omat tekevät todellisia rikkomuksia, se on vain prosessivirhe.",
+    "type": "followup",
+    "startMs": 320386
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:speed_slow|>Tota on kyllä niin vaikea... <|prosody:pause|>niinku käsittää tavallisen ihmisen. <|prosody:pause|>Et miten ne voi pokkana vetää tolla kaksinaismoralismilla. <|prosody:pause|>Et ku miettii vaik tota Garden Helsinki -juttua. Siel on... siel on miljoonia kiinni jossain ihmeen hallihankkeessa, ja sit Orpo vaan jyrää sen läpi. <|prosody:pause|>Ja kenen ehdoilla? No Kokkilan.",
+    "type": "statement",
+    "startMs": 337497
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Niinpä.",
+    "type": "interjection",
+    "startMs": 357337
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ja sit kehtaavat sanoa, et Suomi on muka maailman vähiten korruptoitunut maa. <|prosody:pause|>Se on ihan täys vitsi.",
+    "type": "followup",
+    "startMs": 358377
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:speed_slow|>Suomalainen korruptio on rakenteellista. <|prosody:pause|>Se ei ole sitä, että annetaan ruskea kirjekuori parkkihallissa, vaan se on juuri tätä. <|prosody:pause|>Istutaan samoissa yhtiöiden hallituksissa, jaetaan valtiontukia strategisesti tärkeille hankkeille, ja sitten nämä samat tahot rahoittavat poliitikkojen vaalikampanjat.",
+    "type": "statement",
+    "startMs": 366305
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Just näin. Ja sit maksetaan joku vitun... <|sfx:sigh|>sori, <|prosody:pause|>mut maksetaan ihan sairaan kallis yksityislento jolleki kansanedustajalle, et se pääsee painamaan oikeeta nappia täysistunnossa.",
+    "type": "dialogue",
+    "startMs": 383833
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:speed_slow|>Se lennättäminen on todellakin pöyristyttävää. <|prosody:pause|>Olen lukenut paljon amerikkalaisten konservatiivien analyysejä siitä, kuinka poliittinen eliitti vieraantuu kansasta. <|prosody:pause|>CPAC-konferenssissa Unkarissa viime vuonna keskustelimme tästä paljon. <|prosody:pause|>Siellä ymmärretään, että globaali eliitti pitää kansallisvaltion asukkaita pelkkinä maksumiehinä.",
+    "type": "dialogue",
+    "startMs": 395599
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Nimenomaa!",
+    "type": "interjection",
+    "startMs": 416959
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Ja tämä Orpon tapaus on vain suomalainen mikrokosmos tästä samasta ilmiöstä. <|prosody:pause|>Me olemme heille vain lypsylehmiä.",
+    "type": "followup",
+    "startMs": 417839
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:speed_fast|>Nii, ja sit ku me yritetään tällee podcastissa niinku puhua näistä asioista avoimesti, ni sit me ollaan jotain äärioikeistolaisia salaliittoteoreetikkoja. <|prosody:pause|>Mä sain taas muuten varmaan... <|prosody:pause|>oota, olikohan se kolmaskymmenes Twitter-bänni tällä viikolla, ku mä vähä kritisoin tota Orpon toimintaa ja otin esille näitä kytköksiä.",
+    "type": "statement",
+    "startMs": 426231
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Sekin on oire.",
+    "type": "interjection",
+    "startMs": 444031
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Niinku miten ihmeessä tosiasioiden toteaminen on vihapuhetta? <|prosody:pause|>Ei mul muuta oo ku on se ihan katastrofi tää tilanne.",
+    "type": "followup",
+    "startMs": 444831
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:speed_slow|>Sensuuri on aina heikon hallinnon merkki. <|prosody:pause|>Kun argumentit loppuvat, alkaa hiljentäminen. <|prosody:pause|>Minä olen kokenut sen yliopistolla, sinä sosiaalisessa mediassa. <|prosody:pause|>Tavoite on suojella tätä korruptoitunutta valtarakennetta, jota Orpon kaltaiset poliitikot ylläpitävät.",
+    "type": "statement",
+    "startMs": 453207
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Jep.",
+    "type": "interjection",
+    "startMs": 468447
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Ja se syy, miksi he pelkäävät Trumpin kaltaisia johtajia — tai miksi he ylipäätään pelkäävät aitoa kansallismielisyyttä — on se, että se uhkaa tätä rahavirtaa. <|prosody:pause|>Se uhkaa heidän luksuslentojaan ja heidän kavereidensa sijoitusyhtiöitä.",
+    "type": "followup",
+    "startMs": 469047
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:speed_slow|>Aivan. Tästä päästäänki siihen, et mitä tää tarkottaa tulevaisuudelle. <|prosody:pause|>Jos tää nyt menee silleen et Orpo vaan... <|sfx:humming|>mmm...<|prosody:pause|> porskuttaa eteenpäin ja tää lakaistaan maton alle. <|prosody:pause|>Ni miltä Suomi näyttää viiden vuoden päästä?",
+    "type": "dialogue",
+    "startMs": 483632
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:speed_slow|>Se on erittäin hyvä kysymys. <|prosody:pause|>Jos tämä hyväksytään uutena normaalina, olemme tilanteessa, jossa poliittinen vastuu on täysin kadonnut. <|prosody:pause|>Minä väitän, että tämä rapauttaa kansalaisten luottamuksen koko järjestelmään paljon nopeammin kuin valtamedia ymmärtääkään.",
+    "type": "dialogue",
+    "startMs": 499814
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:speed_fast|>Mut eiks se oo jo rapautunu? <|prosody:pause|>Siis oikeesti. Mun kuuntelijat, ne ihmiset kenen kans mä juttelen... <|prosody:pause|>ei kukaan luota noihin enää.",
+    "type": "interruption",
+    "startMs": 515253
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:speed_slow|>On se rapautunut, mutta järjestelmä pysyy vielä pystyssä inertialla. Ja pelottelulla. <|prosody:pause|>He käyttävät kulttuurimarxistista retoriikkaa ja ilmastopaniikkia pitääkseen kansan kurissa, jotta nämä kokkilat ja orpot voivat jatkaa liiketoimiaan rauhassa takahuoneissa. <|prosody:pause|>Donald Trump sanoisi tätä suon kuivaamiseksi. <|prosody:pause|>Suomessakin on kova tarve kuivata suo.",
+    "type": "statement",
+    "startMs": 523683
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Kyl!",
+    "type": "interjection",
+    "startMs": 544243
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Ja se vaatii sitä, että tällaiset asiat tuodaan päivänvaloon pelottomasti.",
+    "type": "followup",
+    "startMs": 544643
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:speed_fast|>Ja sitä me täs just tehään. <|prosody:pause|>Siis mieti nyt jotain tavallista... <|prosody:pause|>oota, vaik jotain duunaria tuolla Uudessakaupungissa. <|prosody:pause|>Se on varmaan eka ollu et jes, autotehdas pelastuu. <|prosody:pause|>Mut sit ku se lukee, jos se nyt sattuu lukee muuta ku Yleä, et hei, tää tehtiinki siks et yks saatanan rikas vaalirahoittaja ei menettäis rahojaan, ja valtio ottaa kaiken riskin. <|prosody:pause|>Ni kyl siinä varmaan alkaa vituttaa.",
+    "type": "statement",
+    "startMs": 547799
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Aivan varmasti.",
+    "type": "interjection",
+    "startMs": 571039
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Koska se duunari on se, joka loppupeleissä maksaa ne verot joista toi bail-out kustannetaan. <|prosody:pause|>Ja sit viel päälle ne luksuslennot sinne eduskuntaan!",
+    "type": "followup",
+    "startMs": 571999
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:speed_slow|>Tässä näkyy juuri se halveksunta. <|prosody:pause|>He eivät näe sitä uusikaupunkilaista työntekijää ihmisenä, vaan pelkkänä resurssina tilastoissa. <|prosody:pause|>Ja tämä on se globaalin eliitin perusongelma. <|prosody:pause|>He elävät täysin irrallaan siitä kansallisesta todellisuudesta, jota heidän päätöksensä rikkovat. <|prosody:pause|>Minä muistan, kun olin Fulbright-stipendiaattina Washingtonissa vuonna 2004...",
+    "type": "statement",
+    "startMs": 581784
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Mm.",
+    "type": "interjection",
+    "startMs": 602024
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:speed_slow|>...keskustelin erään merkittävän amerikkalaisen ajatushautomon tutkijan kanssa. <|prosody:pause|>Hän sanoi jo silloin, että länsimaisten demokratioiden suurin uhka ei ole ulkopuolinen vihollinen, vaan sisäinen, irtautunut eliitti, joka ryöstää oman maansa. <|prosody:pause|>Orpo on tästä oppikirjaesimerkki.",
+    "type": "followup",
+    "startMs": 602384
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|emotion:contemplation|>Totta. Ihan sairaan hyvin sanottu. <|prosody:pause|>Se on just toi sisäinen vihollinen, vaik sitä ei sais ääneen sanoa tai sut leimataan ties miks maankavaltajaks.",
+    "type": "dialogue",
+    "startMs": 619621
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:speed_slow|>Leimaaminen on ainoa ase, joka heillä on jäljellä. <|prosody:pause|>Heillä ei ole moraalisia tai loogisia argumentteja puolustaa sitä, että valtion varoja ohjataan poliittisten ystävien taskuihin. <|prosody:pause|>Siksi he huutavat rasismia ja populismia aina kun joku esittää ikäviä kysymyksiä.",
+    "type": "dialogue",
+    "startMs": 629899
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:speed_fast|>Oikeesti mulla menee kyl hermot tähän... <|prosody:pause|>siis eilen olin kaupassa, ni näin lööpit siel kassoilla. <|prosody:pause|>Iltalehti sentään oli laittanu tästä juttua, et pisteet niille kerranki, mut sit ku katto jotain muuta lehteä vieres ni siin vaa päiviteltiin jotain iha yhdentekevää julkkisjuttua. <|prosody:pause|>Ne niinku yrittää aktiivisesti harhauttaa kansan huomion jonneki muualle.",
+    "type": "statement",
+    "startMs": 647497
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Se on se leipää ja sirkushuveja -strategia.",
+    "type": "interjection",
+    "startMs": 666777
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:speed_fast|>Nii! Sillä aikaa ku kansa tuijottaa jotain Putousta, ni nää lennättää edustajia veronmaksajien piikkiin pelastamaan Orpon nahan. <|prosody:pause|>Se on... no, miten mä sen nyt sanoisin, se on ihan täys farssi koko show.",
+    "type": "followup",
+    "startMs": 669137
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:speed_slow|>Se on farssi, mutta se on myös vaarallista. <|prosody:pause|>Kun eliitti vieraantuu näin pahasti, se alkaa tuoda maahan vierasta väestöä paikkaamaan omia epäonnistumisiaan ja muuttamaan demografiaa itselleen suotuisammaksi. <|prosody:pause|>Se on se toinen puoli tätä kolikkoa. <|prosody:pause|>Kansallinen identiteetti on este tämänkaltaiselle korruptiolle, ja siksi se täytyy murtaa.",
+    "type": "statement",
+    "startMs": 682010
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|emotion:surprise|>Voi hitto sentään, toi on muuten ihan totta!",
+    "type": "interjection",
+    "startMs": 703250
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:speed_slow|>Identiteetitön kansa ei nouse kapinaan luksuslentoja tai vaalirahoittajien suosimista vastaan. <|prosody:pause|>Siksi he ajavat tätä kulttuurimarxismia niin voimakkaasti läpi kaikissa instituutioissa.",
+    "type": "followup",
+    "startMs": 706090
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:speed_slow|>Tää kiteyttää kyl kaiken. <|prosody:pause|>Eli ne haluaa sellasen massan, joka vaan maksaa verot ja pitää suunsa kii.",
+    "type": "dialogue",
+    "startMs": 717801
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Juuri näin. Ja jokainen, joka asettuu tähän poikkiteloin, vaiennetaan. <|prosody:pause|>Mutta kuten valtamedia on alkanut huomata — ja kuten tämän podcastin suosio osoittaa — kansa alkaa pikkuhiljaa herätä. <|prosody:pause|>He eivät voi huijata kaikkia loputtomiin.",
+    "type": "dialogue",
+    "startMs": 726068
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:speed_fast|>Ei todellakaan. Ja sikshan me tehään tätä. <|prosody:pause|>Mä en aio lopettaa, vaik ne laittais mun somen kii sata kertaa. <|prosody:pause|>Suomi on suomalaisia varten, eikä mitään saatanan eliitin rahastusautomaatteja varten. <|prosody:pause|>Ja näihin luksuslentoihin palatakseni... <|prosody:pause|>kuka helvetti hyväksyy nää laskut siel eduskunnassa? <|prosody:pause|>Onks siel joku virkamies, joka vaan leimaa et joo, kolme tonnia yhdensuuntainen lento Kanarialta Helsinkiin, ihan ok?",
+    "type": "statement",
+    "startMs": 740569
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Niin.",
+    "type": "interjection",
+    "startMs": 766129
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Siis mä väitän et kukaan normaali palkansaaja ei ikinä menis tommonen kuitti läpi jossain firman matkalaskuis.",
+    "type": "followup",
+    "startMs": 766449
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:speed_slow|>Minä voin kertoa, kuinka yliopistomaailmassa mentiin pikkutarkasti läpi jokainen bussilippu seminaarimatkoilla. <|prosody:pause|>Mutta kun kyse on poliittisen eliitin vallan säilyttämisestä, rahaa on rajattomasti. <|prosody:pause|>Tämä osoittaa sen, että lait ja säännöt on tehty vain meitä tavallisia ihmisiä varten. <|prosody:pause|>He ovat riittävän ylimielisiä uskoakseen olevansa niiden yläpuolella.",
+    "type": "statement",
+    "startMs": 774039
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Ja tää on ihan se sama juttu mitä me puhuttiin siel aikasemmassa jaksossa Peterin ja Ringan kans! <|prosody:pause|>Siitä kokoomuksen sulamisesta. <|prosody:pause|>Ne on ihan valmiita myymään meidät kaikki, kunhan oma positio säilyy.",
+    "type": "interruption",
+    "startMs": 793783
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Kyllä. Se on se managerialistisen luokan perusvietti. Itsensä säilyttäminen hinnalla millä hyvänsä.",
+    "type": "dialogue",
+    "startMs": 805694
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Eikä niitä kiinnosta mikään muu kyl ku raha ja valta.",
+    "type": "dialogue",
+    "startMs": 812150
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:speed_slow|>Eikä minua yllätä ollenkaan, että Iltalehti ja Aamulehti ovat joutuneet painostuksen alle näiden uutisten julkaisemisen jälkeen. <|prosody:pause|>Olen kuullut tietyistä lähteistä, että toimituksissa on ollut kova vääntö siitä, kuinka paljon tätä uskalletaan avata.",
+    "type": "dialogue",
+    "startMs": 815121
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|emotion:surprise|>Oikeesti? Vähänkö sairasta.",
+    "type": "interjection",
+    "startMs": 828801
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:speed_slow|>Kyllä. Koska kokoomus on historiansa aikana rakentanut erittäin tehokkaan verkoston mediakentälle. <|prosody:pause|>He pystyvät soittamaan päätoimittajille ja vaatimaan suhteellisuudentajua uutisointiin.",
+    "type": "followup",
+    "startMs": 830801
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:speed_slow|>No ton mä kyllä uskon sataprosenttisesti. <|prosody:pause|>Se selittääki sen miks Yle on ollu täst niin hiljaa tai silleen hissunkissun. <|prosody:pause|>Koska ne pelkää et rahoitus leikataan tai jotain.",
+    "type": "statement",
+    "startMs": 842767
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:speed_fast|>Hei pakko viä kysyä täst... <|prosody:pause|>joku puhu somessa et tää Valmet Automotiven kuvio liittyis jotenki kans tähän vihreeseen siirtymään? <|prosody:pause|>Onks täs jotain sellasta taustalla?",
+    "type": "dialogue",
+    "startMs": 853412
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:speed_slow|>Täsmälleen. Sähköautojen tuotanto ja siihen liittyvät akkuprojektit. <|prosody:pause|>Tämä on koko vihreän siirtymän ydinongelma.",
+    "type": "dialogue",
+    "startMs": 864501
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|emotion:surprise|>Aijaa!",
+    "type": "interjection",
+    "startMs": 871901
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Se ei ole mikään ekologinen pelastusoperaatio, vaan se on jättimäinen tulonsiirto veronmaksajilta näille vihreän talouden sijoittajayhtiöille.",
+    "type": "followup",
+    "startMs": 872381
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|emotion:fear|><|prosody:speed_fast|>Vittu että pistää vihaks. <|prosody:pause|>Siis tää on... oota, tää on niinku täydellinen kusetus. <|prosody:pause|>Meiltä viedään rahat silukkaan... eiku taskusta, silleen et meidän pitää pelastaa ilmasto, ja sit ne rahat menee suoraan johonki Ilpo Kokkilan sijoituksiin!",
+    "type": "statement",
+    "startMs": 880276
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Juuri näin.",
+    "type": "interjection",
+    "startMs": 895276
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Ja sit Yle tekee jotain itku-uutisia siitä et tavalliset suomalaiset syö liikaa lihaa. <|prosody:pause|>Ihan käsittämätöntä!",
+    "type": "followup",
+    "startMs": 895876
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:speed_slow|>Amerikassa Joe Bidenin hallinto ohjasi satoja miljardeja vastaaviin hankkeisiin. <|prosody:pause|>Ja tässä Orpon tapauksessa kyse on täysin samasta mekanismista, vain pienemmässä mittakaavassa. <|prosody:pause|>Valmet Automotive oli helppo kohde, koska sen pelastaminen voitiin myydä vihreänä tekona.",
+    "type": "statement",
+    "startMs": 903628
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Nii nii!",
+    "type": "interjection",
+    "startMs": 919908
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Mutta totuus on se, että ilman valtion massiivista väliintuloa tuollainen liiketoiminta ei olisi markkinaehtoisesti kannattavaa tässä mittakaavassa.",
+    "type": "followup",
+    "startMs": 920188
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Ei todellakaan. Ja sikshän ne tarvii ton valtiokoneiston siihen väliin.",
+    "type": "dialogue",
+    "startMs": 928841
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:speed_slow|>Aivan. Valtio ottaa riskin, ja rahoittajat pitävät omistuksensa ja tuottonsa. <|prosody:pause|>Tämä on modernia kulttuurimarxismia talouden kaavussa.",
+    "type": "dialogue",
+    "startMs": 933358
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|emotion:affection|>Toi oli aika tyhjentävästi sanottu. <|prosody:pause|>Tän takia sä oot tääl ohjelmas, ihanaa et joku osaa pukea nää sanoiksi.",
+    "type": "dialogue",
+    "startMs": 942872
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:speed_slow|>Mut joo, mä luulen et me ollaan aika lailla... <|sfx:humming|>mmm...<|prosody:pause|> perattu tää soppa ny tält erää. <|prosody:pause|>Orpo joutuu selvittää nää, mut kaikki tietää et mitään aitoa tuomiota sielt ei tuu.",
+    "type": "statement",
+    "startMs": 950098
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "<|prosody:speed_slow|>Oikeuskansleri antaa lausunnon, jossa todetaan moitittava menettely, mutta ei aihetta syytteeseen. <|prosody:pause|>Se on se vakiokaava, jolla nämä asiat painetaan villaisella. <|prosody:pause|>Mutta kansa muistaa tämän.",
+    "type": "statement",
+    "startMs": 962420
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Kyl.",
+    "type": "interjection",
+    "startMs": 974500
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Ja meidän tehtävämme on huolehtia siitä, että he muistavat sen myös seuraavissa vaaleissa.",
+    "type": "followup",
+    "startMs": 974780
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|emotion:pride|><|prosody:expressive_high|>Todellaki! <|prosody:pause|>Kansa ei unohda, vaikka nää kuinka yrittäis aivopestä meitä. <|prosody:pause|>Se on vissi homma. <|prosody:pause|>Mut hei, kiitos Harri taas kerran ku pääsit linjoille ja jaoit sun asiantuntemusta. <|prosody:pause|>Tää sun analyysi on aina ihan kultaa näis asiois.",
+    "type": "statement",
+    "startMs": 979735
+  },
+  {
+    "speaker": {
+      "id": "harri-auvinen",
+      "name": "Harri Auvinen",
+      "type": "guest",
+      "avatar": "avatar-6.png"
+    },
+    "line": "Kiitos Matti kutsusta. Oli jälleen ilo keskustella. Jatketaan työtä.",
+    "type": "dialogue",
+    "startMs": 994599
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "Jatketaan. Ja hei kaikki kuulijat, kiitos ku olitte taas mukana. <|prosody:pause|>Valheverkko murenee pala palalta. <|prosody:pause|>Pistäkää jakoon tätä jaksoa, ku valtamedia ei näitä kuitenkaa nosta.",
+    "type": "dialogue",
+    "startMs": 998623
+  },
+  {
+    "speaker": {
+      "id": "matti-nieminen",
+      "name": "Matti Nieminen",
+      "type": "host",
+      "avatar": "avatar-4.png"
+    },
+    "line": "<|prosody:expressive_high|>Oikeaa asiaa palaa taas asiaan ens kerralla. <|prosody:pause|>Pysykää valveilla ja älkää uskoko kaikkee mitä teille syötetään. <|prosody:pause|>Se on moro!",
+    "type": "statement",
+    "startMs": 1010866
+  }
+]
